@@ -619,3 +619,362 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.01.30-09.20.09:338][674]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
 [2019.01.30-09.20.18:040][714]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
 [2019.01.30-09.20.20:088][723]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.01.30-09.22.42:702][299]LogHttp: Warning: 0000022C0F611800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.01.30-09.22.42:703][299]LogHttp: Warning: 0000022C0F611800: libcurl info message cache 0 (Connection 7 seems to be dead!)
+[2019.01.30-09.22.42:703][299]LogHttp: Warning: 0000022C0F611800: libcurl info message cache 1 (Closing connection 7)
+[2019.01.30-09.22.42:703][299]LogHttp: Warning: 0000022C0F611800: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.01.30-09.22.42:703][299]LogHttp: Warning: 0000022C0F611800: libcurl info message cache 3 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.01.30-09.22.42:703][299]LogHttp: Warning: 0000022C0F611800: libcurl info message cache 4 (Closing connection 8)
+[2019.01.30-09.22.43:038][300]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2D70B1DC-499E-E6C5-FF29-378E26084286%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.0-4541578%2B%2B%2BUE4%2BRelease-4.21&UserID=3a67442446f6a6b3308357a4edc308ac%7Ccdafa54ddc0d4ec7acc53080c637bed9%7C7b9443cb-3529-4a5e-b9c4-088bd4d906a5&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.01.30-09.26.54:355][394]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.30-09.36.18:123][904]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.30-09.57.27:290][ 64]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall9)
+[2019.01.30-09.57.28:688][121]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.30-09.58.06:182][931]LogSlate: Window 'New Level' being destroyed
+[2019.01.30-09.58.10:239][123]LogSlate: Window 'New Level' being destroyed
+[2019.01.30-09.58.10:542][123]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.30-09.58.10:568][123]LightingResults: New page: Lighting Build
+[2019.01.30-09.58.10:570][123]LoadErrors: New page: Loading map: Template_Default.umap
+[2019.01.30-09.58.10:575][123]MapCheck: New page: Map Check
+[2019.01.30-09.58.10:575][123]LightingResults: New page: Lighting Build
+[2019.01.30-09.58.10:658][123]LogAIModule: Creating AISystem for world Untitled_1
+[2019.01.30-09.58.10:691][123]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.30-09.58.10:737][123]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.30-09.58.10:738][123]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,183ms to complete.
+[2019.01.30-09.58.10:738][123]LogFileHelpers: Loading map 'Template_Default' took 0.490
+[2019.01.30-09.59.32:412][895]LogAssetEditorManager: Opening Asset editor for MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2019.01.30-09.59.34:849][ 14]LogSlate: Window 'ThirdPersonExampleMap_BuiltData - Generic Asset Editor' being destroyed
+[2019.01.30-09.59.34:853][ 14]LogSlate: Window 'ThirdPersonExampleMap_BuiltData - Generic Asset Editor' being destroyed
+[2019.01.30-10.00.25:147][551]LogSlate: Window 'Delete Assets' being destroyed
+[2019.01.30-10.00.37:341][137]LogSlate: Window 'Delete Assets' being destroyed
+[2019.01.30-10.00.38:562][188]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.01.30-10.00.39:762][255]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.30-10.00.49:038][255]LogSlate: Window 'Save Level As' being destroyed
+[2019.01.30-10.00.49:048][255]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.30-10.00.49:408][255]LogSavePackage: Moving '../../../../../../Users/lucas/Documents/Unreal Projects/EndlessRunner/EndlessRunnerSeb/EndlessRunnerLuc/Saved/LuculScene0CDC5FCC406098D1BC1BC198A268F993.tmp' to '../../../../../../Users/lucas/Documents/Unreal Projects/EndlessRunner/EndlessRunnerSeb/EndlessRunnerLuc/Content/Lucul/Scenes/LuculScene.umap'
+[2019.01.30-10.00.49:465][255]LogSavePackage: Moving '../../../../../../Users/lucas/Documents/Unreal Projects/EndlessRunner/EndlessRunnerSeb/EndlessRunnerLuc/Saved/LuculScene_BuiltDataA935C0924F5CB90D4550039371849141.tmp' to '../../../../../../Users/lucas/Documents/Unreal Projects/EndlessRunner/EndlessRunnerSeb/EndlessRunnerLuc/Content/Lucul/Scenes/LuculScene_BuiltData.uasset'
+[2019.01.30-10.00.49:474][255]LogFileHelpers: Saving map 'LuculScene' took 0.430
+[2019.01.30-10.02.06:703][544]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.30-10.02.42:634][485]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.30-10.02.47:517][731]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.30-10.02.52:964][906]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.01.30-10.02.57:682][160]Cmd: TRANSACTION UNDO
+[2019.01.30-10.02.57:682][160]LogEditorTransaction: Undo Clicking on Actors
+[2019.01.30-10.02.59:540][211]Cmd: TRANSACTION UNDO
+[2019.01.30-10.02.59:540][211]LogEditorTransaction: Undo Set Location
+[2019.01.30-10.03.08:223][713]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.30-10.03.08:323][719]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.30-10.03.08:373][719]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Lucul/Scenes/LuculScene.LuculScene:PersistentLevel' has LevelScriptBlueprint '/Game/Lucul/Scenes/LuculScene.LuculScene:PersistentLevel.LuculScene' with GeneratedClass '/Game/Lucul/Scenes/LuculScene.LuculScene_C' with ClassGeneratedBy '/Game/Lucul/Scenes/LuculScene.LuculScene:PersistentLevel.LuculScene'
+[2019.01.30-10.03.08:404][719]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.30-10.03.08:455][719]PIE: New page: PIE session: LuculScene (30 janv. 2019 12:03:08)
+[2019.01.30-10.03.08:525][719]LogPlayLevel: Creating play world package: /Game/Lucul/Scenes/UEDPIE_0_LuculScene
+[2019.01.30-10.03.08:586][719]LogPlayLevel: PIE: StaticDuplicateObject took: (0.059128s)
+[2019.01.30-10.03.08:586][719]LogAIModule: Creating AISystem for world LuculScene
+[2019.01.30-10.03.08:604][719]LogPlayLevel: PIE: World Init took: (0.018890s)
+[2019.01.30-10.03.08:605][719]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Lucul/Scenes/LuculScene.LuculScene to /Game/Lucul/Scenes/UEDPIE_0_LuculScene.LuculScene (0.078653s)
+[2019.01.30-10.03.08:753][719]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.30-10.03.08:811][719]LogInit: FAudioDevice initialized.
+[2019.01.30-10.03.09:082][719]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.01.30-10.03.09:191][719]LogWorld: Bringing World /Game/Lucul/Scenes/UEDPIE_0_LuculScene.LuculScene up for play (max tick rate 60) at 2019.01.30-11.03.09
+[2019.01.30-10.03.09:438][719]LogWorld: Bringing up level for play took: 0.249019
+[2019.01.30-10.03.09:617][719]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0009 seconds. Added 20 classes and 0 folders.
+[2019.01.30-10.03.09:651][719]PIE: Play in editor start time for /Game/Lucul/Scenes/UEDPIE_0_LuculScene 0,294
+[2019.01.30-10.03.09:651][719]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Lucul/Scenes/LuculScene.LuculScene:PersistentLevel' has LevelScriptBlueprint '/Game/Lucul/Scenes/LuculScene.LuculScene:PersistentLevel.LuculScene' with GeneratedClass '/Game/Lucul/Scenes/LuculScene.LuculScene_C' with ClassGeneratedBy '/Game/Lucul/Scenes/LuculScene.LuculScene:PersistentLevel.LuculScene'
+[2019.01.30-10.03.13:469][904]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Lucul/Scenes/LuculScene.LuculScene:PersistentLevel' has LevelScriptBlueprint '/Game/Lucul/Scenes/LuculScene.LuculScene:PersistentLevel.LuculScene' with GeneratedClass '/Game/Lucul/Scenes/LuculScene.LuculScene_C' with ClassGeneratedBy '/Game/Lucul/Scenes/LuculScene.LuculScene:PersistentLevel.LuculScene'
+[2019.01.30-10.03.13:470][904]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.30-10.03.13:518][904]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.30-10.03.13:519][904]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Lucul/Scenes/LuculScene.LuculScene:PersistentLevel' has LevelScriptBlueprint '/Game/Lucul/Scenes/LuculScene.LuculScene:PersistentLevel.LuculScene' with GeneratedClass '/Game/Lucul/Scenes/LuculScene.LuculScene_C' with ClassGeneratedBy '/Game/Lucul/Scenes/LuculScene.LuculScene:PersistentLevel.LuculScene'
+[2019.01.30-10.03.13:563][904]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.30-10.03.13:677][905]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.01.30-10.03.15:361][  3]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2019.01.30-10.03.20:698][295]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.01.30-10.03.26:751][596]LogSlate: Took 0.284624 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.01.30-10.03.26:830][596]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.30-10.03.35:204][ 11]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2019.01.30-10.03.40:838][301]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2019.01.30-10.03.41:997][361]Cmd: TRANSACTION UNDO
+[2019.01.30-10.03.41:997][361]LogEditorTransaction: Undo Clicking on Actors
+[2019.01.30-10.03.42:823][392]Cmd: TRANSACTION UNDO
+[2019.01.30-10.03.42:823][392]LogEditorTransaction: Undo Move Actors
+[2019.01.30-10.03.54:561][ 51]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.30-10.04.04:915][660]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.30-10.04.05:015][666]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.30-10.04.05:030][666]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Lucul/Scenes/LuculScene.LuculScene:PersistentLevel' has LevelScriptBlueprint '/Game/Lucul/Scenes/LuculScene.LuculScene:PersistentLevel.LuculScene' with GeneratedClass '/Game/Lucul/Scenes/LuculScene.LuculScene_C' with ClassGeneratedBy '/Game/Lucul/Scenes/LuculScene.LuculScene:PersistentLevel.LuculScene'
+[2019.01.30-10.04.05:030][666]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.30-10.04.05:030][666]PIE: New page: PIE session: LuculScene (30 janv. 2019 12:04:05)
+[2019.01.30-10.04.05:030][666]LogPlayLevel: Creating play world package: /Game/Lucul/Scenes/UEDPIE_0_LuculScene
+[2019.01.30-10.04.05:033][666]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003041s)
+[2019.01.30-10.04.05:034][666]LogAIModule: Creating AISystem for world LuculScene
+[2019.01.30-10.04.05:034][666]LogPlayLevel: PIE: World Init took: (0.001123s)
+[2019.01.30-10.04.05:034][666]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Lucul/Scenes/LuculScene.LuculScene to /Game/Lucul/Scenes/UEDPIE_0_LuculScene.LuculScene (0.004315s)
+[2019.01.30-10.04.05:094][666]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.30-10.04.05:149][666]LogInit: FAudioDevice initialized.
+[2019.01.30-10.04.05:181][666]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.01.30-10.04.05:183][666]LogWorld: Bringing World /Game/Lucul/Scenes/UEDPIE_0_LuculScene.LuculScene up for play (max tick rate 60) at 2019.01.30-11.04.05
+[2019.01.30-10.04.05:184][666]LogWorld: Bringing up level for play took: 0.001622
+[2019.01.30-10.04.05:197][666]PIE: Play in editor start time for /Game/Lucul/Scenes/UEDPIE_0_LuculScene -0,159
+[2019.01.30-10.04.05:197][666]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Lucul/Scenes/LuculScene.LuculScene:PersistentLevel' has LevelScriptBlueprint '/Game/Lucul/Scenes/LuculScene.LuculScene:PersistentLevel.LuculScene' with GeneratedClass '/Game/Lucul/Scenes/LuculScene.LuculScene_C' with ClassGeneratedBy '/Game/Lucul/Scenes/LuculScene.LuculScene:PersistentLevel.LuculScene'
+[2019.01.30-10.04.57:011][742]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Lucul/Scenes/LuculScene.LuculScene:PersistentLevel' has LevelScriptBlueprint '/Game/Lucul/Scenes/LuculScene.LuculScene:PersistentLevel.LuculScene' with GeneratedClass '/Game/Lucul/Scenes/LuculScene.LuculScene_C' with ClassGeneratedBy '/Game/Lucul/Scenes/LuculScene.LuculScene:PersistentLevel.LuculScene'
+[2019.01.30-10.04.57:012][742]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.30-10.04.57:056][742]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.30-10.04.57:056][742]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Lucul/Scenes/LuculScene.LuculScene:PersistentLevel' has LevelScriptBlueprint '/Game/Lucul/Scenes/LuculScene.LuculScene:PersistentLevel.LuculScene' with GeneratedClass '/Game/Lucul/Scenes/LuculScene.LuculScene_C' with ClassGeneratedBy '/Game/Lucul/Scenes/LuculScene.LuculScene:PersistentLevel.LuculScene'
+[2019.01.30-10.04.57:095][742]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.30-10.04.57:119][743]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.01.30-10.05.02:045][ 25]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.30-10.05.36:197][ 48]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.01.30-10.05.38:348][167]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.30-10.05.43:483][453]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.30-10.06.12:350][126]Cmd: DELETE
+[2019.01.30-10.06.12:350][126]Cmd: ACTOR DELETE
+[2019.01.30-10.06.13:493][126]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.01.30-10.06.13:519][126]LogEditorActor: Deleted 1 Actors (0.114 secs)
+[2019.01.30-10.06.13:523][126]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.01.30-10.06.13:546][126]Cmd: DELETE
+[2019.01.30-10.06.13:546][126]Cmd: ACTOR DELETE
+[2019.01.30-10.06.13:548][126]LogEditorActor: Deleted Actor: BP_Sky_Sphere_C
+[2019.01.30-10.06.13:576][126]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2019.01.30-10.06.15:609][245]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.30-10.06.28:974][ 14]LogActorFactory: Actor Factory created Cube
+[2019.01.30-10.06.29:684][ 25]LogActorFactory: Actor Factory created Cube
+[2019.01.30-10.06.30:680][ 84]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.30-10.06.32:567][197]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.30-10.06.35:362][360]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.30-10.06.40:526][638]LogEditorViewport: Clicking Background
+[2019.01.30-10.06.40:538][638]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.30-10.06.40:538][638]Can't find target actor or component.
+[2019.01.30-10.06.41:494][695]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.01.30-10.06.41:703][704]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.30-10.07.36:178][820]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.30-10.07.36:282][826]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.30-10.07.36:294][826]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Lucul/Scenes/LuculScene.LuculScene:PersistentLevel' has LevelScriptBlueprint '/Game/Lucul/Scenes/LuculScene.LuculScene:PersistentLevel.LuculScene' with GeneratedClass '/Game/Lucul/Scenes/LuculScene.LuculScene_C' with ClassGeneratedBy '/Game/Lucul/Scenes/LuculScene.LuculScene:PersistentLevel.LuculScene'
+[2019.01.30-10.07.36:295][826]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.30-10.07.36:295][826]PIE: New page: PIE session: LuculScene (30 janv. 2019 12:07:36)
+[2019.01.30-10.07.36:295][826]LogPlayLevel: Creating play world package: /Game/Lucul/Scenes/UEDPIE_0_LuculScene
+[2019.01.30-10.07.36:298][826]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003026s)
+[2019.01.30-10.07.36:299][826]LogAIModule: Creating AISystem for world LuculScene
+[2019.01.30-10.07.36:299][826]LogPlayLevel: PIE: World Init took: (0.000903s)
+[2019.01.30-10.07.36:299][826]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Lucul/Scenes/LuculScene.LuculScene to /Game/Lucul/Scenes/UEDPIE_0_LuculScene.LuculScene (0.004073s)
+[2019.01.30-10.07.36:329][826]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.30-10.07.36:384][826]LogInit: FAudioDevice initialized.
+[2019.01.30-10.07.36:417][826]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.01.30-10.07.36:419][826]LogWorld: Bringing World /Game/Lucul/Scenes/UEDPIE_0_LuculScene.LuculScene up for play (max tick rate 60) at 2019.01.30-11.07.36
+[2019.01.30-10.07.36:420][826]LogWorld: Bringing up level for play took: 0.001814
+[2019.01.30-10.07.36:437][826]PIE: Play in editor start time for /Game/Lucul/Scenes/UEDPIE_0_LuculScene 1,08
+[2019.01.30-10.07.36:437][826]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Lucul/Scenes/LuculScene.LuculScene:PersistentLevel' has LevelScriptBlueprint '/Game/Lucul/Scenes/LuculScene.LuculScene:PersistentLevel.LuculScene' with GeneratedClass '/Game/Lucul/Scenes/LuculScene.LuculScene_C' with ClassGeneratedBy '/Game/Lucul/Scenes/LuculScene.LuculScene:PersistentLevel.LuculScene'
+[2019.01.30-10.07.43:005][197]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Lucul/Scenes/LuculScene.LuculScene:PersistentLevel' has LevelScriptBlueprint '/Game/Lucul/Scenes/LuculScene.LuculScene:PersistentLevel.LuculScene' with GeneratedClass '/Game/Lucul/Scenes/LuculScene.LuculScene_C' with ClassGeneratedBy '/Game/Lucul/Scenes/LuculScene.LuculScene:PersistentLevel.LuculScene'
+[2019.01.30-10.07.43:005][197]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.30-10.07.43:043][197]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.30-10.07.43:044][197]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Lucul/Scenes/LuculScene.LuculScene:PersistentLevel' has LevelScriptBlueprint '/Game/Lucul/Scenes/LuculScene.LuculScene:PersistentLevel.LuculScene' with GeneratedClass '/Game/Lucul/Scenes/LuculScene.LuculScene_C' with ClassGeneratedBy '/Game/Lucul/Scenes/LuculScene.LuculScene:PersistentLevel.LuculScene'
+[2019.01.30-10.07.43:073][197]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.30-10.07.43:113][199]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2019.01.30-10.07.44:913][302]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.01.30-10.07.52:074][720]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.30-10.08.02:895][279]LogAssetEditorManager: Opening Asset editor for Material /Engine/BasicShapes/BasicShapeMaterial.BasicShapeMaterial
+[2019.01.30-10.08.03:022][279]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2019.01.30-10.08.04:820][279]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2019.01.30-10.08.04:864][279]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.01.30-10.08.04:864][279]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.01.30-10.08.04:864][279]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.01.30-10.08.04:969][279]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.01.30-10.08.05:110][279]LogSlate: Took 0.043216 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.01.30-10.08.09:186][396]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.01.30-10.08.09:186][396]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.01.30-10.08.09:210][396]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.01.30-10.08.09:747][416]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.01.30-10.08.09:773][417]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.01.30-10.08.09:875][420]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.01.30-10.08.10:305][422]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.01.30-10.08.10:305][422]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.01.30-10.08.10:441][428]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.01.30-10.08.12:491][530]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.01.30-10.08.13:168][561]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.01.30-10.08.13:857][597]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.01.30-10.08.14:989][656]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.01.30-10.08.15:514][684]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.01.30-10.08.16:381][728]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.01.30-10.08.18:300][829]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.01.30-10.08.18:376][833]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.01.30-10.08.18:637][846]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.01.30-10.08.20:501][938]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.01.30-10.08.21:050][962]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.01.30-10.08.21:167][968]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.01.30-10.08.23:805][ 62]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.01.30-10.08.23:851][ 62]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.01.30-10.08.23:896][ 63]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.01.30-10.08.24:905][112]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.01.30-10.08.24:948][114]LogSlate: Window 'BasicShapeMaterial' being destroyed
+[2019.01.30-10.08.25:441][143]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.01.30-10.08.25:609][153]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.01.30-10.08.25:892][169]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.30-10.08.26:204][187]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.01.30-10.08.27:328][223]MaterialEditorStats: Base pass shader: 106 instructions
+[2019.01.30-10.08.27:328][223]MaterialEditorStats: Base pass shader with Surface Lightmap: 124 instructions
+[2019.01.30-10.08.27:328][223]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 180 instructions
+[2019.01.30-10.08.27:328][223]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.01.30-10.08.27:328][223]MaterialEditorStats: Texture samplers: 3/16
+[2019.01.30-10.08.28:284][280]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.30-10.08.35:505][697]LogEditorViewport: Clicking Background
+[2019.01.30-10.08.36:060][729]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.30-10.08.36:248][729]LogSavePackage: Moving '../../../../../../Users/lucas/Documents/Unreal Projects/EndlessRunner/EndlessRunnerSeb/EndlessRunnerLuc/Saved/LuculScene1C3E49D64217088EC4EED681713F2D17.tmp' to '../../../../../../Users/lucas/Documents/Unreal Projects/EndlessRunner/EndlessRunnerSeb/EndlessRunnerLuc/Content/Lucul/Scenes/LuculScene.umap'
+[2019.01.30-10.08.36:303][729]LogSavePackage: Moving '../../../../../../Users/lucas/Documents/Unreal Projects/EndlessRunner/EndlessRunnerSeb/EndlessRunnerLuc/Saved/LuculScene_BuiltData4A485F454344D1E523DA9BBB2FA9E6EB.tmp' to '../../../../../../Users/lucas/Documents/Unreal Projects/EndlessRunner/EndlessRunnerSeb/EndlessRunnerLuc/Content/Lucul/Scenes/LuculScene_BuiltData.uasset'
+[2019.01.30-10.09.33:856][982]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.30-10.09.34:012][991]LogAssetEditorManager: Opening Asset editor for Material /Game/Lucul/Materials/NewMaterial.NewMaterial
+[2019.01.30-10.09.34:016][991]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2019.01.30-10.09.34:096][991]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2019.01.30-10.09.34:128][991]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.01.30-10.09.34:128][991]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.01.30-10.09.34:128][991]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.01.30-10.09.34:859][ 28]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.01.30-10.09.34:874][ 29]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.01.30-10.09.35:267][ 52]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.01.30-10.09.35:267][ 52]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.01.30-10.09.35:355][ 57]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.01.30-10.09.35:616][ 72]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.01.30-10.09.36:755][140]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.01.30-10.09.36:769][141]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.01.30-10.09.36:784][142]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.01.30-10.09.37:282][171]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.01.30-10.09.37:360][175]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.01.30-10.09.37:627][187]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.01.30-10.09.37:964][206]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.01.30-10.09.38:033][210]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.01.30-10.09.38:371][230]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.01.30-10.09.38:546][240]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.01.30-10.09.39:127][274]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.01.30-10.09.39:297][284]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.30-10.09.39:493][295]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.30-10.09.39:801][313]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.01.30-10.09.40:638][362]MaterialEditorStats: Base pass shader: 103 instructions
+[2019.01.30-10.09.40:638][362]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 177 instructions
+[2019.01.30-10.09.40:638][362]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.01.30-10.09.40:638][362]MaterialEditorStats: Texture samplers: 3/16
+[2019.01.30-10.09.44:930][615]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.30-10.10.36:411][631]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.30-10.10.40:373][867]Cmd: TRANSACTION UNDO
+[2019.01.30-10.10.40:373][867]LogEditorTransaction: Undo Scale Actors
+[2019.01.30-10.10.40:589][867]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2019.01.30-10.10.40:657][867]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.01.30-10.10.40:657][867]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.01.30-10.10.40:657][867]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.01.30-10.10.40:660][867]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2019.01.30-10.10.41:364][905]Cmd: TRANSACTION UNDO
+[2019.01.30-10.10.41:364][905]LogEditorTransaction: Undo Replace component used material
+[2019.01.30-10.10.41:369][905]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2019.01.30-10.10.41:394][905]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2019.01.30-10.10.41:453][906]LogShaderCompilers: Display: Shaders left to compile 51
+[2019.01.30-10.10.41:508][910]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.01.30-10.10.41:542][912]LogShaderCompilers: Display: Shaders left to compile 49
+[2019.01.30-10.10.41:968][937]LogShaderCompilers: Display: Shaders left to compile 48
+[2019.01.30-10.10.42:070][943]LogShaderCompilers: Display: Shaders left to compile 47
+[2019.01.30-10.10.42:109][945]LogShaderCompilers: Display: Shaders left to compile 46
+[2019.01.30-10.10.42:347][959]LogShaderCompilers: Display: Shaders left to compile 45
+[2019.01.30-10.10.42:448][965]LogShaderCompilers: Display: Shaders left to compile 44
+[2019.01.30-10.10.42:491][967]LogShaderCompilers: Display: Shaders left to compile 43
+[2019.01.30-10.10.42:748][982]LogShaderCompilers: Display: Shaders left to compile 42
+[2019.01.30-10.10.42:748][982]LogShaderCompilers: Display: Shaders left to compile 41
+[2019.01.30-10.10.42:906][991]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.01.30-10.10.44:088][ 61]LogShaderCompilers: Display: Shaders left to compile 39
+[2019.01.30-10.10.44:104][ 62]LogShaderCompilers: Display: Shaders left to compile 38
+[2019.01.30-10.10.44:104][ 62]LogShaderCompilers: Display: Shaders left to compile 37
+[2019.01.30-10.10.44:702][ 94]LogShaderCompilers: Display: Shaders left to compile 36
+[2019.01.30-10.10.45:274][128]LogShaderCompilers: Display: Shaders left to compile 35
+[2019.01.30-10.10.45:295][129]LogShaderCompilers: Display: Shaders left to compile 34
+[2019.01.30-10.10.45:485][140]LogShaderCompilers: Display: Shaders left to compile 33
+[2019.01.30-10.10.45:485][140]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.30-10.10.45:700][153]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.01.30-10.10.46:103][176]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.01.30-10.10.46:378][192]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.01.30-10.10.46:652][208]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.01.30-10.10.46:721][212]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.01.30-10.10.47:418][253]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.01.30-10.10.47:432][254]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.01.30-10.10.47:756][273]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.01.30-10.10.48:467][315]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.01.30-10.10.48:486][316]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.01.30-10.10.48:486][316]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.01.30-10.10.49:103][352]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.01.30-10.10.49:302][364]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.01.30-10.10.49:320][365]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.01.30-10.10.49:344][366]MaterialEditorStats: Base pass shader: 106 instructions
+[2019.01.30-10.10.49:344][366]MaterialEditorStats: Base pass shader with Surface Lightmap: 124 instructions
+[2019.01.30-10.10.49:344][366]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 180 instructions
+[2019.01.30-10.10.49:344][366]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.01.30-10.10.49:344][366]MaterialEditorStats: Texture samplers: 3/16
+[2019.01.30-10.10.49:545][378]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.01.30-10.10.49:751][390]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.01.30-10.10.49:817][394]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.01.30-10.10.49:851][396]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.01.30-10.10.50:123][412]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.01.30-10.10.50:170][415]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.01.30-10.10.50:290][422]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.01.30-10.10.50:461][432]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.01.30-10.10.50:510][435]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.01.30-10.10.51:053][467]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.01.30-10.10.51:190][475]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.01.30-10.10.51:412][488]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.01.30-10.10.53:191][593]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.01.30-10.10.53:192][593]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.01.30-10.10.53:192][593]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.01.30-10.10.53:668][620]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.01.30-10.10.54:519][671]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.30-10.10.54:556][673]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.01.30-10.10.55:780][746]MaterialEditorStats: Base pass shader: 103 instructions
+[2019.01.30-10.10.55:780][746]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 177 instructions
+[2019.01.30-10.10.55:780][746]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.01.30-10.10.55:781][746]MaterialEditorStats: Texture samplers: 3/16
+[2019.01.30-10.11.09:284][555]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.30-10.16.18:310][371]LogEditorViewport: Clicking Background
+[2019.01.30-10.16.18:572][385]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.30-10.16.18:765][385]LogSavePackage: Moving '../../../../../../Users/lucas/Documents/Unreal Projects/EndlessRunner/EndlessRunnerSeb/EndlessRunnerLuc/Saved/LuculSceneDC85F05A41792FA51D2FFB8B60C4E354.tmp' to '../../../../../../Users/lucas/Documents/Unreal Projects/EndlessRunner/EndlessRunnerSeb/EndlessRunnerLuc/Content/Lucul/Scenes/LuculScene.umap'
+[2019.01.30-10.16.18:815][385]LogSavePackage: Moving '../../../../../../Users/lucas/Documents/Unreal Projects/EndlessRunner/EndlessRunnerSeb/EndlessRunnerLuc/Saved/LuculScene_BuiltDataC49FD6EA49900B8807F340899596B1BC.tmp' to '../../../../../../Users/lucas/Documents/Unreal Projects/EndlessRunner/EndlessRunnerSeb/EndlessRunnerLuc/Content/Lucul/Scenes/LuculScene_BuiltData.uasset'
+[2019.01.30-10.16.20:503][485]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.30-10.21.28:338][251]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.30-10.21.32:637][509]LogEditorViewport: Clicking Background
+[2019.01.30-10.21.33:579][565]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.30-10.21.33:727][565]LogSavePackage: Moving '../../../../../../Users/lucas/Documents/Unreal Projects/EndlessRunner/EndlessRunnerSeb/EndlessRunnerLuc/Saved/LuculSceneBD6AE77044A27631315EBD9F180D4989.tmp' to '../../../../../../Users/lucas/Documents/Unreal Projects/EndlessRunner/EndlessRunnerSeb/EndlessRunnerLuc/Content/Lucul/Scenes/LuculScene.umap'
+[2019.01.30-10.21.33:774][565]LogSavePackage: Moving '../../../../../../Users/lucas/Documents/Unreal Projects/EndlessRunner/EndlessRunnerSeb/EndlessRunnerLuc/Saved/LuculScene_BuiltDataB384D8C94A7D7BA50D6E9BB850B063D2.tmp' to '../../../../../../Users/lucas/Documents/Unreal Projects/EndlessRunner/EndlessRunnerSeb/EndlessRunnerLuc/Content/Lucul/Scenes/LuculScene_BuiltData.uasset'
+[2019.01.30-10.21.40:215][836]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.30-10.21.43:987][843]LogSlate: Window 'Message' being destroyed
+[2019.01.30-10.21.51:913][843]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2019.01.30-10.21.51:987][843]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.01.30-10.21.51:987][843]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.01.30-10.21.51:987][843]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.01.30-10.21.52:027][843]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2019.01.30-10.21.52:114][843]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2019.01.30-10.21.52:281][843]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy BasicShapeMaterial, compiling. 
+[2019.01.30-10.21.55:170][843]LogShaderCompilers: Display: Shaders left to compile 89
+[2019.01.30-10.21.55:170][843]LogShaderCompilers: Display: Shaders left to compile 88
+[2019.01.30-10.21.55:170][843]LogShaderCompilers: Display: Shaders left to compile 87
+[2019.01.30-10.21.55:170][843]LogShaderCompilers: Display: Shaders left to compile 86
+[2019.01.30-10.21.55:170][843]LogShaderCompilers: Display: Shaders left to compile 85
+[2019.01.30-10.21.55:170][843]LogShaderCompilers: Display: Shaders left to compile 84
+[2019.01.30-10.21.55:170][843]LogShaderCompilers: Display: Shaders left to compile 83
+[2019.01.30-10.21.55:170][843]LogShaderCompilers: Display: Shaders left to compile 82
+[2019.01.30-10.21.55:170][843]LogShaderCompilers: Display: Shaders left to compile 81
+[2019.01.30-10.21.55:170][843]LogShaderCompilers: Display: Shaders left to compile 80
+[2019.01.30-10.21.55:170][843]LogShaderCompilers: Display: Shaders left to compile 79
+[2019.01.30-10.21.55:170][843]LogShaderCompilers: Display: Shaders left to compile 78
+[2019.01.30-10.21.55:170][843]LogShaderCompilers: Display: Shaders left to compile 77
+[2019.01.30-10.21.55:170][843]LogShaderCompilers: Display: Shaders left to compile 76
+[2019.01.30-10.21.55:170][843]LogShaderCompilers: Display: Shaders left to compile 75
+[2019.01.30-10.21.55:170][843]LogShaderCompilers: Display: Shaders left to compile 74
+[2019.01.30-10.21.55:170][843]LogShaderCompilers: Display: Shaders left to compile 73
+[2019.01.30-10.21.55:170][843]LogShaderCompilers: Display: Shaders left to compile 72
+[2019.01.30-10.21.55:170][843]LogShaderCompilers: Display: Shaders left to compile 71
+[2019.01.30-10.21.55:170][843]LogShaderCompilers: Display: Shaders left to compile 70
+[2019.01.30-10.21.55:170][843]LogShaderCompilers: Display: Shaders left to compile 69
+[2019.01.30-10.21.55:170][843]LogShaderCompilers: Display: Shaders left to compile 68
+[2019.01.30-10.21.55:170][843]LogShaderCompilers: Display: Shaders left to compile 67
+[2019.01.30-10.21.55:170][843]LogShaderCompilers: Display: Shaders left to compile 66
+[2019.01.30-10.21.55:170][843]LogShaderCompilers: Display: Shaders left to compile 65
+[2019.01.30-10.21.55:170][843]LogShaderCompilers: Display: Shaders left to compile 64
+[2019.01.30-10.21.55:170][843]LogShaderCompilers: Display: Shaders left to compile 63
+[2019.01.30-10.21.55:170][843]LogShaderCompilers: Display: Shaders left to compile 62
+[2019.01.30-10.21.55:170][843]LogShaderCompilers: Display: Shaders left to compile 61
+[2019.01.30-10.21.55:170][843]LogShaderCompilers: Display: Shaders left to compile 51
+[2019.01.30-10.21.55:170][843]LogShaderCompilers: Display: Shaders left to compile 41
+[2019.01.30-10.21.55:191][843]TextureStreamingBuild: Display: Compiling optional shaders took 2.969 seconds.
+[2019.01.30-10.21.56:540][843]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.01.30-10.21.57:689][843]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.01.30-10.21.57:774][843]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.01.30-10.21.58:215][843]LogShaderCompilers: Display: Shaders left to compile 1
