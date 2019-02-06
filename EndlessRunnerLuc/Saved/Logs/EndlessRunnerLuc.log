@@ -2732,3 +2732,195 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.01.30-14.35.47:190][412]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
 [2019.01.30-14.35.47:690][412]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
 [2019.01.30-14.35.48:191][412]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2019.01.30-14.35.48:692][412]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2019.01.30-14.35.49:193][412]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2019.01.30-14.35.49:694][412]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2019.01.30-14.35.50:195][412]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2019.01.30-14.35.50:696][412]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2019.01.30-14.35.51:196][412]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2019.01.30-14.35.51:697][412]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2019.01.30-14.35.52:198][412]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2019.01.30-14.35.52:699][412]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2019.01.30-14.35.53:199][412]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2019.01.30-14.35.53:700][412]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2019.01.30-14.35.54:200][412]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2019.01.30-14.35.54:700][412]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2019.01.30-14.35.55:201][412]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2019.01.30-14.35.55:701][412]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2019.01.30-14.35.56:201][412]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2019.01.30-14.35.56:702][412]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2019.01.30-14.35.57:203][412]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2019.01.30-14.35.57:704][412]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2019.01.30-14.35.58:204][412]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2019.01.30-14.35.58:704][412]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2019.01.30-14.35.59:206][412]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2019.01.30-14.35.59:707][412]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2019.01.30-14.36.00:207][412]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2019.01.30-14.36.00:708][412]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2019.01.30-14.36.01:209][412]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2019.01.30-14.36.01:710][412]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2019.01.30-14.36.02:211][412]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2019.01.30-14.36.02:713][412]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2019.01.30-14.36.03:213][412]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2019.01.30-14.36.03:714][412]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2019.01.30-14.36.04:215][412]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2019.01.30-14.36.04:715][412]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2019.01.30-14.36.05:216][412]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2019.01.30-14.36.05:716][412]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2019.01.30-14.36.06:217][412]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2019.01.30-14.36.06:718][412]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2019.01.30-14.36.07:219][412]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2019.01.30-14.36.07:720][412]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2019.01.30-14.36.08:221][412]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2019.01.30-14.36.08:722][412]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2019.01.30-14.36.09:222][412]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2019.01.30-14.36.09:723][412]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2019.01.30-14.36.10:223][412]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2019.01.30-14.36.10:725][412]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2019.01.30-14.36.11:226][412]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2019.01.30-14.36.11:727][412]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2019.01.30-14.36.12:228][412]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2019.01.30-14.36.12:729][412]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2019.01.30-14.36.13:230][412]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2019.01.30-14.36.13:730][412]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2019.01.30-14.36.14:232][412]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2019.01.30-14.36.14:732][412]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2019.01.30-14.36.15:233][412]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2019.01.30-14.36.15:734][412]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2019.01.30-14.36.16:234][412]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2019.01.30-14.36.16:735][412]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2019.01.30-14.36.17:235][412]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2019.01.30-14.36.17:736][412]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2019.01.30-14.36.18:237][412]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2019.01.30-14.36.18:738][412]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2019.01.30-14.36.19:239][412]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2019.01.30-14.36.19:740][412]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2019.01.30-14.36.20:241][412]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2019.01.30-14.36.20:742][412]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2019.01.30-14.36.21:243][412]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2019.01.30-14.36.21:743][412]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2019.01.30-14.36.22:244][412]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2019.01.30-14.36.22:745][412]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2019.01.30-14.36.23:246][412]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2019.01.30-14.36.23:747][412]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2019.01.30-14.36.24:247][412]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2019.01.30-14.36.24:748][412]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2019.01.30-14.36.25:249][412]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2019.01.30-14.36.25:749][412]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2019.01.30-14.36.26:249][412]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2019.01.30-14.36.26:751][412]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2019.01.30-14.36.27:252][412]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2019.01.30-14.36.27:752][412]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2019.01.30-14.36.28:253][412]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2019.01.30-14.36.28:754][412]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2019.01.30-14.36.29:255][412]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2019.01.30-14.36.29:755][412]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2019.01.30-14.36.30:256][412]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2019.01.30-14.36.30:757][412]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2019.01.30-14.36.31:258][412]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2019.01.30-14.36.31:758][412]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2019.01.30-14.36.32:259][412]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2019.01.30-14.36.32:760][412]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2019.01.30-14.36.33:260][412]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2019.01.30-14.36.33:761][412]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.01.30-14.36.34:262][412]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.01.30-14.36.34:763][412]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.01.30-14.36.35:264][412]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.01.30-14.36.35:765][412]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.01.30-14.36.36:266][412]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.01.30-14.36.36:766][412]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.01.30-14.36.37:267][412]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.01.30-14.36.37:768][412]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.01.30-14.36.38:269][412]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.01.30-14.36.38:770][412]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.01.30-14.36.39:271][412]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.01.30-14.36.39:772][412]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.01.30-14.36.40:273][412]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.01.30-14.36.40:774][412]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.01.30-14.36.41:275][412]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.01.30-14.36.41:776][412]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.01.30-14.36.42:277][412]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.01.30-14.36.42:777][412]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.01.30-14.36.43:278][412]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.01.30-14.36.43:779][412]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.01.30-14.36.44:280][412]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.01.30-14.36.44:781][412]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.01.30-14.36.45:281][412]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.01.30-14.36.45:781][412]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.01.30-14.36.46:283][412]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.01.30-14.36.46:784][412]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.01.30-14.36.47:284][412]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.01.30-14.36.47:785][412]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.01.30-14.36.48:286][412]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.01.30-14.36.48:787][412]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.01.30-14.36.49:288][412]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.01.30-14.36.49:789][412]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.01.30-14.36.50:289][412]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.01.30-14.36.50:789][412]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.01.30-14.36.51:290][412]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.01.30-14.36.51:790][412]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.01.30-14.36.52:291][412]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.01.30-14.36.52:792][412]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.01.30-14.36.53:293][412]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.01.30-14.36.53:793][412]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.01.30-14.36.54:294][412]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.01.30-14.36.54:795][412]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.01.30-14.36.55:296][412]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.01.30-14.36.55:796][412]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.01.30-14.36.56:297][412]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.01.30-14.36.56:798][412]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.01.30-14.36.57:300][412]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.01.30-14.36.57:800][412]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.01.30-14.36.58:300][412]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.01.30-14.36.58:801][412]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.01.30-14.36.59:302][412]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.01.30-14.36.59:803][412]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.01.30-14.37.00:304][412]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.01.30-14.37.00:804][412]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.01.30-14.37.01:305][412]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.01.30-14.37.01:806][412]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.01.30-14.37.02:307][412]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.01.30-14.37.02:807][412]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.01.30-14.37.03:308][412]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.01.30-14.37.03:808][412]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.01.30-14.37.04:310][412]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.01.30-14.37.04:810][412]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.01.30-14.37.05:311][412]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.01.30-14.37.05:811][412]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.01.30-14.37.06:312][412]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.01.30-14.37.06:813][412]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.01.30-14.37.07:313][412]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.01.30-14.37.07:814][412]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.01.30-14.37.08:315][412]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.01.30-14.37.08:816][412]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.01.30-14.37.09:342][412]LogModuleManager: Shutting down and abandoning module SSL (58)
+[2019.01.30-14.37.09:346][412]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (54)
+[2019.01.30-14.37.09:346][412]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (52)
+[2019.01.30-14.37.09:346][412]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (50)
+[2019.01.30-14.37.09:346][412]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (48)
+[2019.01.30-14.37.09:346][412]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (46)
+[2019.01.30-14.37.09:346][412]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (44)
+[2019.01.30-14.37.09:346][412]LogModuleManager: Shutting down and abandoning module MagicLeapController (42)
+[2019.01.30-14.37.09:348][412]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.01.30-14.37.09:348][412]LogModuleManager: Shutting down and abandoning module MagicLeap (40)
+[2019.01.30-14.37.09:348][412]LogModuleManager: Shutting down and abandoning module DatasmithContent (38)
+[2019.01.30-14.37.09:349][412]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2019.01.30-14.37.09:349][412]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2019.01.30-14.37.09:349][412]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2019.01.30-14.37.09:349][412]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2019.01.30-14.37.09:350][412]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2019.01.30-14.37.09:350][412]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2019.01.30-14.37.09:350][412]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2019.01.30-14.37.09:354][412]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.01.30-14.37.09:354][412]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2019.01.30-14.37.09:354][412]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2019.01.30-14.37.09:354][412]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2019.01.30-14.37.09:354][412]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2019.01.30-14.37.09:354][412]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2019.01.30-14.37.09:354][412]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.01.30-14.37.09:354][412]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.01.30-14.37.09:354][412]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.01.30-14.37.09:354][412]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.01.30-14.37.09:354][412]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.01.30-14.37.09:378][412]LogExit: Exiting.
+[2019.01.30-14.37.09:421][412]Log file closed, 01/30/19 15:37:09
