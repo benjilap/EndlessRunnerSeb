@@ -593,6 +593,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.02.23-13.19.44:966][497]LogRenderer: Reallocating scene render targets to support 1432x924 Format 10 NumSamples 1 (Frame:1).
 [2019.02.23-13.19.47:999][668]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2019.02.23-13.19.48:099][674]LogSlate: Window 'Main_Car' being destroyed
+<<<<<<< HEAD
 [2019.02.23-13.20.08:104][ 77]LogSlate: Window 'EndlessRunnerLuc - Unreal Editor' being destroyed
 [2019.02.23-13.20.08:105][ 77]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
 [2019.02.23-13.20.08:271][ 78]Cmd: QUIT_EDITOR
@@ -919,3 +920,5 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.02.23-13.20.10:263][ 78]LogModuleManager: Shutting down and abandoning module PakFile (2)
 [2019.02.23-13.20.10:272][ 78]LogExit: Exiting.
 [2019.02.23-13.20.10:280][ 78]Log file closed, 02/23/19 14:20:10
+=======
+>>>>>>> master
