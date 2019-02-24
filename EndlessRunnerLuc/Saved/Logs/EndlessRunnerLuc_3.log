@@ -592,4 +592,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.02.23-12.57.16:260][356]Cmd: MAP CHECKDEP NOCLEARLOG
 [2019.02.23-12.57.16:260][356]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,078ms to complete.
 [2019.02.23-12.57.16:260][356]LogFileHelpers: Loading map 'LuculScene' took 0.098
+<<<<<<< HEAD
 [2019.02.23-12.58.15:850][  7]LogSlate: FSceneViewport::OnFocusLost() reason 0
+=======
+>>>>>>> Test
