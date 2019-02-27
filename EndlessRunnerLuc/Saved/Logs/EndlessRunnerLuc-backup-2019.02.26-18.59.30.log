@@ -1,0 +1,1432 @@
+﻿Log file open, 02/26/19 19:07:01
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: EndlessRunnerLuc
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.392776
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.455s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Programmes/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.011s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.02.26-18.07.01:490][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.02.26-18.07.01:490][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.02.26-18.07.01:490][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Projets/Unreal/Unreal_EndlessRunner/EndlessRunnerSeb/EndlessRunnerLuc/Saved/Config/Windows/Engine.ini]
+[2019.02.26-18.07.01:490][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.02.26-18.07.01:490][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Projets/Unreal/Unreal_EndlessRunner/EndlessRunnerSeb/EndlessRunnerLuc/Saved/Config/Windows/Engine.ini]
+[2019.02.26-18.07.01:490][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Projets/Unreal/Unreal_EndlessRunner/EndlessRunnerSeb/EndlessRunnerLuc/Saved/Config/Windows/Engine.ini]
+[2019.02.26-18.07.01:490][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.02.26-18.07.01:490][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.02.26-18.07.01:490][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.02.26-18.07.01:490][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.02.26-18.07.01:490][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.02.26-18.07.01:490][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.02.26-18.07.01:490][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.02.26-18.07.01:490][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.02.26-18.07.01:490][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.02.26-18.07.01:490][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.02.26-18.07.01:490][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.02.26-18.07.01:490][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.02.26-18.07.01:490][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.02.26-18.07.01:490][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Projets/Unreal/Unreal_EndlessRunner/EndlessRunnerSeb/EndlessRunnerLuc/Saved/Config/Windows/Engine.ini]
+[2019.02.26-18.07.01:490][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.02.26-18.07.01:490][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.02.26-18.07.01:490][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.02.26-18.07.01:490][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.02.26-18.07.01:490][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.02.26-18.07.01:490][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.02.26-18.07.01:491][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.02.26-18.07.01:491][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.02.26-18.07.01:491][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.02.26-18.07.01:491][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.02.26-18.07.01:491][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.02.26-18.07.01:491][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.02.26-18.07.01:491][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.02.26-18.07.01:491][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.02.26-18.07.01:491][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Projets/Unreal/Unreal_EndlessRunner/EndlessRunnerSeb/EndlessRunnerLuc/Saved/Config/Windows/Engine.ini]
+[2019.02.26-18.07.01:491][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Projets/Unreal/Unreal_EndlessRunner/EndlessRunnerSeb/EndlessRunnerLuc/Saved/Config/Windows/Engine.ini]
+[2019.02.26-18.07.01:493][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Projets/Unreal/Unreal_EndlessRunner/EndlessRunnerSeb/EndlessRunnerLuc/Saved/Config/Windows/Scalability.ini]
+[2019.02.26-18.07.01:493][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.02.26-18.07.01:493][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.02.26-18.07.01:493][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Projets/Unreal/Unreal_EndlessRunner/EndlessRunnerSeb/EndlessRunnerLuc/Saved/Config/Windows/Scalability.ini]
+[2019.02.26-18.07.01:493][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.02.26-18.07.01:493][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Projets/Unreal/Unreal_EndlessRunner/EndlessRunnerSeb/EndlessRunnerLuc/Saved/Config/Windows/Scalability.ini]
+[2019.02.26-18.07.01:493][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.02.26-18.07.01:493][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.02.26-18.07.01:493][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.02.26-18.07.01:493][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.02.26-18.07.01:493][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.02.26-18.07.01:493][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.02.26-18.07.01:493][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.02.26-18.07.01:493][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.02.26-18.07.01:493][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.02.26-18.07.01:493][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.02.26-18.07.01:493][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.02.26-18.07.01:493][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.02.26-18.07.01:493][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.02.26-18.07.01:493][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.02.26-18.07.01:493][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.02.26-18.07.01:493][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.02.26-18.07.01:493][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.02.26-18.07.01:493][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.02.26-18.07.01:493][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Projets/Unreal/Unreal_EndlessRunner/EndlessRunnerSeb/EndlessRunnerLuc/Saved/Config/Windows/Scalability.ini]
+[2019.02.26-18.07.01:493][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.02.26-18.07.01:493][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.02.26-18.07.01:493][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.02.26-18.07.01:493][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.02.26-18.07.01:493][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.02.26-18.07.01:493][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.02.26-18.07.01:493][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.02.26-18.07.01:493][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.02.26-18.07.01:493][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.02.26-18.07.01:493][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.02.26-18.07.01:493][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.02.26-18.07.01:493][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.02.26-18.07.01:493][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.02.26-18.07.01:493][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.02.26-18.07.01:493][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.02.26-18.07.01:493][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.02.26-18.07.01:493][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.02.26-18.07.01:493][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.02.26-18.07.01:493][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.02.26-18.07.01:493][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.02.26-18.07.01:493][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.02.26-18.07.01:493][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.02.26-18.07.01:493][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.02.26-18.07.01:493][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.02.26-18.07.01:493][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.02.26-18.07.01:493][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.02.26-18.07.01:493][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.02.26-18.07.01:493][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.02.26-18.07.01:493][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.02.26-18.07.01:493][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.02.26-18.07.01:493][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Projets/Unreal/Unreal_EndlessRunner/EndlessRunnerSeb/EndlessRunnerLuc/Saved/Config/Windows/Scalability.ini]
+[2019.02.26-18.07.01:493][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.02.26-18.07.01:493][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.02.26-18.07.01:493][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.02.26-18.07.01:493][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.02.26-18.07.01:493][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.02.26-18.07.01:493][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.02.26-18.07.01:493][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.02.26-18.07.01:493][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.02.26-18.07.01:493][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Projets/Unreal/Unreal_EndlessRunner/EndlessRunnerSeb/EndlessRunnerLuc/Saved/Config/Windows/Scalability.ini]
+[2019.02.26-18.07.01:493][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.02.26-18.07.01:493][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.02.26-18.07.01:493][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.02.26-18.07.01:493][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.02.26-18.07.01:493][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.02.26-18.07.01:493][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.02.26-18.07.01:493][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.02.26-18.07.01:493][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.02.26-18.07.01:493][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.02.26-18.07.01:493][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.02.26-18.07.01:493][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.02.26-18.07.01:493][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.02.26-18.07.01:493][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.02.26-18.07.01:493][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Projets/Unreal/Unreal_EndlessRunner/EndlessRunnerSeb/EndlessRunnerLuc/Saved/Config/Windows/Scalability.ini]
+[2019.02.26-18.07.01:493][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.02.26-18.07.01:493][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.02.26-18.07.01:493][  0]LogInit: Selected Device Profile: [Windows]
+[2019.02.26-18.07.01:493][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.02.26-18.07.01:522][  0]LogHAL: Display: Platform has ~ 16 GB [17032716288 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.02.26-18.07.01:522][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.02.26-18.07.01:522][  0]LogInit: Going up to parent DeviceProfile []
+[2019.02.26-18.07.01:522][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Projets/Unreal/Unreal_EndlessRunner/EndlessRunnerSeb/EndlessRunnerLuc/Saved/Config/Windows/Scalability.ini]
+[2019.02.26-18.07.01:522][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.02.26-18.07.01:522][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.02.26-18.07.01:522][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Projets/Unreal/Unreal_EndlessRunner/EndlessRunnerSeb/EndlessRunnerLuc/Saved/Config/Windows/Scalability.ini]
+[2019.02.26-18.07.01:522][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.02.26-18.07.01:522][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Projets/Unreal/Unreal_EndlessRunner/EndlessRunnerSeb/EndlessRunnerLuc/Saved/Config/Windows/Scalability.ini]
+[2019.02.26-18.07.01:522][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.02.26-18.07.01:522][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.02.26-18.07.01:522][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.02.26-18.07.01:522][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.02.26-18.07.01:522][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.02.26-18.07.01:522][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.02.26-18.07.01:522][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.02.26-18.07.01:522][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.02.26-18.07.01:522][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.02.26-18.07.01:522][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.02.26-18.07.01:522][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.02.26-18.07.01:522][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.02.26-18.07.01:522][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.02.26-18.07.01:522][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.02.26-18.07.01:522][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.02.26-18.07.01:522][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.02.26-18.07.01:522][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.02.26-18.07.01:522][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.02.26-18.07.01:522][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Projets/Unreal/Unreal_EndlessRunner/EndlessRunnerSeb/EndlessRunnerLuc/Saved/Config/Windows/Scalability.ini]
+[2019.02.26-18.07.01:522][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.02.26-18.07.01:522][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.02.26-18.07.01:522][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.02.26-18.07.01:522][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.02.26-18.07.01:522][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.02.26-18.07.01:522][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.02.26-18.07.01:522][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.02.26-18.07.01:522][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.02.26-18.07.01:522][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.02.26-18.07.01:522][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.02.26-18.07.01:522][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.02.26-18.07.01:522][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.02.26-18.07.01:522][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.02.26-18.07.01:522][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.02.26-18.07.01:522][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.02.26-18.07.01:522][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.02.26-18.07.01:522][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.02.26-18.07.01:522][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.02.26-18.07.01:522][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.02.26-18.07.01:522][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.02.26-18.07.01:522][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.02.26-18.07.01:522][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.02.26-18.07.01:522][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.02.26-18.07.01:522][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.02.26-18.07.01:522][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.02.26-18.07.01:522][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.02.26-18.07.01:522][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.02.26-18.07.01:522][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.02.26-18.07.01:522][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.02.26-18.07.01:522][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.02.26-18.07.01:522][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Projets/Unreal/Unreal_EndlessRunner/EndlessRunnerSeb/EndlessRunnerLuc/Saved/Config/Windows/Scalability.ini]
+[2019.02.26-18.07.01:522][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.02.26-18.07.01:522][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.02.26-18.07.01:522][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.02.26-18.07.01:522][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.02.26-18.07.01:522][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.02.26-18.07.01:522][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.02.26-18.07.01:522][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.02.26-18.07.01:522][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.02.26-18.07.01:522][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Projets/Unreal/Unreal_EndlessRunner/EndlessRunnerSeb/EndlessRunnerLuc/Saved/Config/Windows/Scalability.ini]
+[2019.02.26-18.07.01:522][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.02.26-18.07.01:522][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.02.26-18.07.01:522][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.02.26-18.07.01:522][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.02.26-18.07.01:522][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.02.26-18.07.01:522][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.02.26-18.07.01:522][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.02.26-18.07.01:522][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.02.26-18.07.01:522][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.02.26-18.07.01:522][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.02.26-18.07.01:522][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.02.26-18.07.01:522][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.02.26-18.07.01:522][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.02.26-18.07.01:522][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Projets/Unreal/Unreal_EndlessRunner/EndlessRunnerSeb/EndlessRunnerLuc/Saved/Config/Windows/Scalability.ini]
+[2019.02.26-18.07.01:522][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.02.26-18.07.01:523][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.02.26-18.07.01:523][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.02.26-18.07.01:523][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.02.26-18.07.01:523][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Projets/Unreal/Unreal_EndlessRunner/EndlessRunnerSeb/EndlessRunnerLuc/Saved/Config/Windows/Engine.ini]
+[2019.02.26-18.07.01:523][  0]LogInit: Computer: DESKTOP-2U8UHNV
+[2019.02.26-18.07.01:523][  0]LogInit: User: benji
+[2019.02.26-18.07.01:523][  0]LogInit: CPU Page size=4096, Cores=6
+[2019.02.26-18.07.01:523][  0]LogInit: High frequency timer resolution =2.156252 MHz
+[2019.02.26-18.07.01:523][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.02.26-18.07.01:523][  0]LogMemory: Platform Memory Stats for Windows
+[2019.02.26-18.07.01:523][  0]LogMemory: Process Physical Memory: 104.15 MB used, 104.15 MB peak
+[2019.02.26-18.07.01:523][  0]LogMemory: Process Virtual Memory: 94.54 MB used, 94.54 MB peak
+[2019.02.26-18.07.01:523][  0]LogMemory: Physical Memory: 9222.41 MB used,  7021.26 MB free, 16243.66 MB total
+[2019.02.26-18.07.01:523][  0]LogMemory: Virtual Memory: 4668.24 MB used,  134213056.00 MB free, 134217728.00 MB total
+[2019.02.26-18.07.01:538][  0]LogInit: Using OS detected language (fr-FR).
+[2019.02.26-18.07.01:538][  0]LogInit: Using OS detected locale (fr-FR).
+[2019.02.26-18.07.01:538][  0]LogTextLocalizationManager: No specific localization for 'fr-FR' exists, so the 'fr' localization will be used.
+[2019.02.26-18.07.01:540][  0]LogStreaming: Display: Took  0.002s to InitEngineTextLocalization.
+[2019.02.26-18.07.01:540][  0]LogInit: Setting process to per monitor DPI aware
+[2019.02.26-18.07.01:560][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.02.26-18.07.01:560][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.02.26-18.07.01:714][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.02.26-18.07.01:714][  0]LogD3D11RHI: D3D11 adapters:
+[2019.02.26-18.07.01:775][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 with Max-Q Design' (Feature Level 11_0)
+[2019.02.26-18.07.01:775][  0]LogD3D11RHI:       6052/0/8121 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.02.26-18.07.01:787][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2019.02.26-18.07.01:787][  0]LogD3D11RHI:       128/0/8121 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.02.26-18.07.01:788][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.02.26-18.07.01:788][  0]LogD3D11RHI:       0/0/8121 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.02.26-18.07.01:788][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.02.26-18.07.01:812][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.02.26-18.07.01:813][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2019.02.26-18.07.01:813][  0]LogWindows: EnumDisplayDevices:
+[2019.02.26-18.07.01:813][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2019.02.26-18.07.01:814][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.02.26-18.07.01:814][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.02.26-18.07.01:814][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 with Max-Q Design' (P:0 D:0)
+[2019.02.26-18.07.01:814][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2019.02.26-18.07.01:815][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 with Max-Q Design
+[2019.02.26-18.07.01:815][  0]LogD3D11RHI:   Driver Version: 411.63 (internal:24.21.14.1163, unified:411.63)
+[2019.02.26-18.07.01:815][  0]LogD3D11RHI:      Driver Date: 9-18-2018
+[2019.02.26-18.07.01:815][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2019.02.26-18.07.01:866][  0]LogD3D11RHI: Async texture creation enabled
+[2019.02.26-18.07.01:921][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.02.26-18.07.02:154][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.02.26-18.07.02:164][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.02.26-18.07.02:174][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.02.26-18.07.02:184][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.02.26-18.07.02:194][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.02.26-18.07.02:204][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.02.26-18.07.02:214][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.02.26-18.07.02:225][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.02.26-18.07.02:229][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.02.26-18.07.02:291][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.26-18.07.02:291][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.26-18.07.02:291][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.26-18.07.02:291][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.26-18.07.02:291][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.26-18.07.02:291][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.26-18.07.02:291][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.26-18.07.02:291][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.26-18.07.02:291][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.26-18.07.02:291][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.26-18.07.02:291][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.26-18.07.02:291][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.26-18.07.02:291][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.26-18.07.02:291][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.26-18.07.02:291][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.26-18.07.02:291][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.26-18.07.02:291][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.26-18.07.02:291][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.26-18.07.02:292][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.02.26-18.07.02:346][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.02.26-18.07.02:346][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.02.26-18.07.02:364][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.02.26-18.07.02:364][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.02.26-18.07.02:373][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.02.26-18.07.02:383][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.02.26-18.07.02:392][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.02.26-18.07.02:402][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.02.26-18.07.02:436][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.02.26-18.07.02:436][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.02.26-18.07.02:436][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.02.26-18.07.02:468][  0]LogShaderCompilers: Guid format shader working directory is -42 characters bigger than the processId version (../../../../../../Projets/Unreal/Unreal_EndlessRunner/EndlessRunnerSeb/EndlessRunnerLuc/Intermediate/Shaders/WorkingDirectory/15072/).
+[2019.02.26-18.07.02:468][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/benji/AppData/Local/Temp/UnrealShaderWorkingDir/7FAE67654FAD23B5E6D542860323BA50/'.
+[2019.02.26-18.07.02:469][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.02.26-18.07.02:469][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.02.26-18.07.02:469][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.02.26-18.07.02:911][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.02.26-18.07.02:958][  0]LogDerivedDataCache: Loaded boot cache 0.05s 71MB C:/Users/benji/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.02.26-18.07.02:958][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/benji/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.02.26-18.07.02:958][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Projets/Unreal/Unreal_EndlessRunner/EndlessRunnerSeb/EndlessRunnerLuc/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.02.26-18.07.02:958][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.02.26-18.07.02:958][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Projets/Unreal/Unreal_EndlessRunner/EndlessRunnerSeb/EndlessRunnerLuc/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.02.26-18.07.02:958][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.02.26-18.07.02:970][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.02.26-18.07.02:970][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.02.26-18.07.02:970][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.02.26-18.07.02:983][  0]LogDerivedDataCache: Using Local data cache path C:/Users/benji/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.02.26-18.07.02:983][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.02.26-18.07.02:983][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.02.26-18.07.03:002][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.02.26-18.07.03:003][  0]LogSlate: Using FreeType 2.6.0
+[2019.02.26-18.07.03:003][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.02.26-18.07.03:076][  0]LogAssetRegistry: FAssetRegistry took 0.0313 seconds to start up
+[2019.02.26-18.07.03:325][  0]LogInit: Selected Device Profile: [Windows]
+[2019.02.26-18.07.03:446][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.02.26-18.07.03:448][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.02.26-18.07.03:448][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.02.26-18.07.03:448][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.02.26-18.07.03:448][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.02.26-18.07.03:459][  0]LogNetVersion: EndlessRunnerLuc 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1870671026)
+[2019.02.26-18.07.03:983][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.130553 seconds
+[2019.02.26-18.07.03:988][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.02.26-18.07.03:988][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2019.02.26-18.07.03:988][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.02.26-18.07.04:659][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.02.26-18.07.04:674][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.02.26-18.07.05:229][  0]SourceControl: Source control is disabled
+[2019.02.26-18.07.05:229][  0]SourceControl: Source control is disabled
+[2019.02.26-18.07.05:230][  0]SourceControl: Source control is disabled
+[2019.02.26-18.07.05:231][  0]SourceControl: Source control is disabled
+[2019.02.26-18.07.05:371][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.02.26-18.07.05:430][  0]LogOcInput: OculusInput pre-init called
+[2019.02.26-18.07.05:582][  0]LogEngine: Initializing Engine...
+[2019.02.26-18.07.05:583][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.02.26-18.07.05:584][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.02.26-18.07.05:584][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.02.26-18.07.05:584][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.02.26-18.07.05:584][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.02.26-18.07.05:769][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.02.26-18.07.05:777][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.02.26-18.07.05:886][  0]LogInit: XAudio2 using 'Headset Earphone (Razer Kraken 7.1 V2)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.02.26-18.07.05:933][  0]LogInit: FAudioDevice initialized.
+[2019.02.26-18.07.05:933][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.02.26-18.07.06:007][  0]LogDerivedDataCache: Saved boot cache 0.08s 71MB C:/Users/benji/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.02.26-18.07.06:010][  0]LogInit: Texture streaming: Enabled
+[2019.02.26-18.07.06:020][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.02.26-18.07.06:030][  0]LogInit: Transaction tracking system initialized
+[2019.02.26-18.07.06:042][  0]BlueprintLog: New page: Editor Load
+[2019.02.26-18.07.06:081][  0]LocalizationService: Localization service is disabled
+[2019.02.26-18.07.06:581][  0]LogFileCache: Scanning file cache for directory 'D:/Projets/Unreal/Unreal_EndlessRunner/EndlessRunnerSeb/EndlessRunnerLuc/Content/' took 0.01s
+[2019.02.26-18.07.06:581][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.02.26-18.07.06:581][  0]LogCook: Display: Mobile HDR setting 1
+[2019.02.26-18.07.06:581][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.02.26-18.07.06:581][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.02.26-18.07.06:581][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.02.26-18.07.06:581][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.02.26-18.07.06:581][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.02.26-18.07.06:665][  0]SourceControl: Source control is disabled
+[2019.02.26-18.07.06:665][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.02.26-18.07.06:665][  0]LightingResults: New page: Lighting Build
+[2019.02.26-18.07.06:667][  0]MapCheck: New page: Map Check
+[2019.02.26-18.07.06:667][  0]LightingResults: New page: Lighting Build
+[2019.02.26-18.07.06:762][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2019.02.26-18.07.06:766][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.02.26-18.07.06:790][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.02.26-18.07.06:790][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,097ms to complete.
+[2019.02.26-18.07.06:790][  0]LogFileHelpers: Loading map 'Template_Default' took 0.125
+[2019.02.26-18.07.07:220][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.26-18.07.07:236][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.26-18.07.07:241][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.26-18.07.07:247][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.26-18.07.07:281][  0]LogCollectionManager: Loaded 0 collections in 0.000629 seconds
+[2019.02.26-18.07.07:397][  0]LogFileCache: Scanning file cache for directory 'D:/Projets/Unreal/Unreal_EndlessRunner/EndlessRunnerSeb/EndlessRunnerLuc/Saved/Collections/' took 0.01s
+[2019.02.26-18.07.07:398][  0]LogFileCache: Scanning file cache for directory 'D:/Projets/Unreal/Unreal_EndlessRunner/EndlessRunnerSeb/EndlessRunnerLuc/Content/Developers/benji/Collections/' took 0.01s
+[2019.02.26-18.07.07:398][  0]LogFileCache: Scanning file cache for directory 'D:/Projets/Unreal/Unreal_EndlessRunner/EndlessRunnerSeb/EndlessRunnerLuc/Content/Collections/' took 0.01s
+[2019.02.26-18.07.07:398][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.02.26-18.07.07:423][  0]LogContentBrowser: Native class hierarchy populated in 0.0221 seconds. Added 2651 classes and 620 folders.
+[2019.02.26-18.07.07:545][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.02.26-18.07.07:615][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.26-18.07.07:641][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.26-18.07.07:655][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.26-18.07.07:657][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.26-18.07.07:679][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.26-18.07.07:694][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.26-18.07.07:708][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.26-18.07.07:723][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.26-18.07.07:726][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.26-18.07.07:738][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.26-18.07.07:756][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.26-18.07.07:768][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.26-18.07.07:771][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.26-18.07.07:775][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.26-18.07.07:791][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.26-18.07.07:802][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.26-18.07.07:807][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.26-18.07.07:811][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.26-18.07.07:822][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.26-18.07.07:835][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.26-18.07.07:839][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.26-18.07.07:853][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.26-18.07.07:857][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.26-18.07.07:868][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.26-18.07.07:885][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.26-18.07.07:904][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.26-18.07.08:969][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.02.26-18.07.09:085][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.02.26-18.07.09:463][  0]LogSlate: Took 0.000197 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.02.26-18.07.09:465][  0]LogSlate: Took 0.000192 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.02.26-18.07.09:524][  0]LogSlate: Took 0.021036 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.02.26-18.07.09:830][  0]LogRenderer: Reallocating scene render targets to support 984x608 Format 10 NumSamples 1 (Frame:1).
+[2019.02.26-18.07.10:128][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.02.26-18.07.10:128][  0]LogLoad: (Engine Initialization) Total time: 11.55 seconds
+[2019.02.26-18.07.10:128][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.02.26-18.07.10:228][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.02.26-18.07.10:310][  0]LogSlate: Took 0.013869 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.02.26-18.07.10:334][  1]LogAssetRegistry: Asset discovery search completed in 7.2804 seconds
+[2019.02.26-18.07.10:336][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.02.26-18.07.10:336][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000038 seconds (updated 0 objects)
+[2019.02.26-18.07.11:655][  5]LogSlate: Took 0.000120 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.02.26-18.07.15:262][ 75]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.26-18.07.16:508][140]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.26-18.07.16:978][168]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.26-18.07.17:477][197]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.26-18.07.17:876][221]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.26-18.07.19:372][311]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.26-18.07.21:981][311]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.EndlessRunnerLuc
+[2019.02.26-18.07.21:981][311]LogTemp: CWD: D:\Programmes\Epic Games\UE_4.21\Engine\Binaries\DotNET\IOS
+[2019.02.26-18.07.21:981][311]LogTemp: Initial Dir: D:\Programmes\Epic Games\UE_4.21
+[2019.02.26-18.07.21:981][311]LogTemp: Env CWD: D:\Programmes\Epic Games\UE_4.21\Engine\Binaries\DotNET\IOS
+[2019.02.26-18.07.21:981][311]LogTemp: BranchPath = DESKTOP-2U8UHNV/D/Programmes/Epic Games/UE_4.21/Engine/Binaries --- GameBranchPath = DESKTOP-2U8UHNV/D/Programmes/Epic Games/UE_4.21/Engine/Binaries
+[2019.02.26-18.07.21:981][311]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\benji\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2019.02.26-18.07.21:981][311]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.02.26-18.07.36:645][109]LogSlate: Window 'Project Settings' being destroyed
+[2019.02.26-18.07.36:650][109]LogSlate: Window 'Project Settings' being destroyed
+[2019.02.26-18.07.38:642][220]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.26-18.07.40:705][228]LogSlate: Window 'Save Level As' being destroyed
+[2019.02.26-18.07.41:517][277]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.26-18.07.41:831][288]LogAIModule: Creating AISystem for world BenjiScene
+[2019.02.26-18.07.41:837][288]LogAssetEditorManager: Opening Asset editor for World /Game/Benji/BenjiScene.BenjiScene
+[2019.02.26-18.07.41:884][288]Cmd: MAP LOAD FILE="../../../../../../Projets/Unreal/Unreal_EndlessRunner/EndlessRunnerSeb/EndlessRunnerLuc/Content/Benji/BenjiScene.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.02.26-18.07.41:884][288]LightingResults: New page: Lighting Build
+[2019.02.26-18.07.41:885][288]LoadErrors: New page: Loading map: BenjiScene.umap
+[2019.02.26-18.07.41:885][288]MapCheck: New page: Map Check
+[2019.02.26-18.07.41:885][288]LightingResults: New page: Lighting Build
+[2019.02.26-18.07.41:910][288]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.02.26-18.07.41:951][288]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.02.26-18.07.41:951][288]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,074ms to complete.
+[2019.02.26-18.07.41:951][288]LogFileHelpers: Loading map 'BenjiScene' took 0.067
+[2019.02.26-18.07.53:183][957]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.26-18.08.02:411][500]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.02.26-18.08.02:411][500]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.02.26-18.08.12:407][100]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.02.26-18.08.12:407][100]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.02.26-18.08.22:749][711]LogMetaData: Removing '/Game/Benji/Blueprints/GameOverWidget.GameOverWidget_C' ref from Metadata '/Game/Benji/Blueprints/PlayerWidget.PackageMetaData'
+[2019.02.26-18.08.22:750][711]LogMetaData: Removing '/Game/Benji/Blueprints/GameOverWidget.GameOverWidget:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Benji/Blueprints/PlayerWidget.PackageMetaData'
+[2019.02.26-18.08.22:750][711]LogMetaData: Removing '/Game/Benji/Blueprints/GameOverWidget.GameOverWidget:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Benji/Blueprints/PlayerWidget.PackageMetaData'
+[2019.02.26-18.08.22:750][711]LogMetaData: Removing '/Game/Benji/Blueprints/GameOverWidget.GameOverWidget:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Benji/Blueprints/PlayerWidget.PackageMetaData'
+[2019.02.26-18.08.22:750][711]LogMetaData: Removing '/Game/Benji/Blueprints/GameOverWidget.SKEL_GameOverWidget_C' ref from Metadata '/Game/Benji/Blueprints/PlayerWidget.PackageMetaData'
+[2019.02.26-18.08.22:763][711]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.26-18.08.22:807][711]LogSavePackage: Moving '../../../../../../Projets/Unreal/Unreal_EndlessRunner/EndlessRunnerSeb/EndlessRunnerLuc/Saved/GameOverWidget20814DC5402C5B8C418478A6984369B4.tmp' to '../../../../../../Projets/Unreal/Unreal_EndlessRunner/EndlessRunnerSeb/EndlessRunnerLuc/Content/Benji/Blueprints/GameOverWidget.uasset'
+[2019.02.26-18.08.22:851][711]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.26-18.08.22:919][711]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.26-18.08.23:006][711]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.26-18.08.23:077][711]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Benji/Prefab/BP_Player" FILE="../../../../../../Projets/Unreal/Unreal_EndlessRunner/EndlessRunnerSeb/EndlessRunnerLuc/Content/Benji/Prefab/BP_Player.uasset" SILENT=true
+[2019.02.26-18.08.23:209][711]LogSavePackage: Moving '../../../../../../Projets/Unreal/Unreal_EndlessRunner/EndlessRunnerSeb/EndlessRunnerLuc/Saved/BP_Player3CE988F846118AE831216E8DF1CAF7AA.tmp' to '../../../../../../Projets/Unreal/Unreal_EndlessRunner/EndlessRunnerSeb/EndlessRunnerLuc/Content/Benji/Prefab/BP_Player.uasset'
+[2019.02.26-18.08.23:275][711]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.26-18.08.46:324][ 67]LogSavePackage: Moving '../../../../../../Projets/Unreal/Unreal_EndlessRunner/EndlessRunnerSeb/EndlessRunnerLuc/Saved/PlayerWidget625C6F944E328D42BD3883979AB4883A.tmp' to '../../../../../../Projets/Unreal/Unreal_EndlessRunner/EndlessRunnerSeb/EndlessRunnerLuc/Content/Benji/Blueprints/PlayerWidget.uasset'
+[2019.02.26-18.08.51:347][368]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Benji/Blueprints/PlayerWidget.PlayerWidget
+[2019.02.26-18.08.52:318][368]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 117 classes and 0 folders.
+[2019.02.26-18.08.53:558][368]LogSlate: Took 0.014707 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.02.26-18.11.42:896][413]LogSlate: Window 'Color Picker' being destroyed
+[2019.02.26-18.11.45:072][543]BlueprintLog: New page: Compile PlayerWidget
+[2019.02.26-18.11.45:756][563]LogSavePackage: Moving '../../../../../../Projets/Unreal/Unreal_EndlessRunner/EndlessRunnerSeb/EndlessRunnerLuc/Saved/PlayerWidget8D281FF948E734611751EF8FDEE8E80E.tmp' to '../../../../../../Projets/Unreal/Unreal_EndlessRunner/EndlessRunnerSeb/EndlessRunnerLuc/Content/Benji/Blueprints/PlayerWidget.uasset'
+[2019.02.26-18.11.46:809][624]LogSavePackage: Moving '../../../../../../Projets/Unreal/Unreal_EndlessRunner/EndlessRunnerSeb/EndlessRunnerLuc/Saved/PlayerWidgetE275FDFC4838F36C7383BBAA79583992.tmp' to '../../../../../../Projets/Unreal/Unreal_EndlessRunner/EndlessRunnerSeb/EndlessRunnerLuc/Content/Benji/Blueprints/PlayerWidget.uasset'
+[2019.02.26-18.11.48:717][738]LogSlate: Window 'PlayerWidget' being destroyed
+[2019.02.26-18.11.50:611][850]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Benji/Prefab/BP_Player.BP_Player
+[2019.02.26-18.11.52:931][931]LogSlate: Took 0.011878 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.02.26-18.12.01:084][411]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Benji/Blueprints/EndlessRunner.EndlessRunner
+[2019.02.26-18.12.58:623][586]LogSavePackage: Moving '../../../../../../Projets/Unreal/Unreal_EndlessRunner/EndlessRunnerSeb/EndlessRunnerLuc/Saved/EndlessRunnerEEFFEA284DBFE78DAF35BC91D8725032.tmp' to '../../../../../../Projets/Unreal/Unreal_EndlessRunner/EndlessRunnerSeb/EndlessRunnerLuc/Content/Benji/Blueprints/EndlessRunner.uasset'
+[2019.02.26-18.13.00:505][699]BlueprintLog: New page: Compile EndlessRunner
+[2019.02.26-18.13.01:404][736]LogSavePackage: Moving '../../../../../../Projets/Unreal/Unreal_EndlessRunner/EndlessRunnerSeb/EndlessRunnerLuc/Saved/EndlessRunner7BD194D049830544E5188B87D5A963A9.tmp' to '../../../../../../Projets/Unreal/Unreal_EndlessRunner/EndlessRunnerSeb/EndlessRunnerLuc/Content/Benji/Blueprints/EndlessRunner.uasset'
+[2019.02.26-18.13.14:572][523]BlueprintLog: New page: Compile EndlessRunner
+[2019.02.26-18.13.15:194][542]LogSavePackage: Moving '../../../../../../Projets/Unreal/Unreal_EndlessRunner/EndlessRunnerSeb/EndlessRunnerLuc/Saved/EndlessRunnerB667160B4D9A9DDE4C29F4979AACE82B.tmp' to '../../../../../../Projets/Unreal/Unreal_EndlessRunner/EndlessRunnerSeb/EndlessRunnerLuc/Content/Benji/Blueprints/EndlessRunner.uasset'
+[2019.02.26-18.13.16:127][598]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.26-18.13.16:165][598]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel' has LevelScriptBlueprint '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel.BenjiScene' with GeneratedClass '/Game/Benji/BenjiScene.BenjiScene_C' with ClassGeneratedBy '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel.BenjiScene'
+[2019.02.26-18.13.16:165][598]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.02.26-18.13.16:197][598]LogPlayLevel: [PlayLevel] Compiling BP_Player before play...
+[2019.02.26-18.13.16:384][598]LogPlayLevel: PlayLevel: Blueprint regeneration took 218 ms (1 blueprints)
+[2019.02.26-18.13.16:402][598]PIE: New page: PIE session: BenjiScene (26 févr. 2019 20:13:16)
+[2019.02.26-18.13.16:429][598]LogPlayLevel: Creating play world package: /Game/Benji/UEDPIE_0_BenjiScene
+[2019.02.26-18.13.16:430][598]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001397s)
+[2019.02.26-18.13.16:444][598]LogAIModule: Creating AISystem for world BenjiScene
+[2019.02.26-18.13.16:444][598]LogPlayLevel: PIE: World Init took: (0.000605s)
+[2019.02.26-18.13.16:444][598]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Benji/BenjiScene.BenjiScene to /Game/Benji/UEDPIE_0_BenjiScene.BenjiScene (0.015069s)
+[2019.02.26-18.13.16:479][598]LogInit: XAudio2 using 'Headset Earphone (Razer Kraken 7.1 V2)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.02.26-18.13.16:517][598]LogInit: FAudioDevice initialized.
+[2019.02.26-18.13.16:524][598]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.26-18.13.16:574][598]LogLoad: Game class is 'EndlessRunner_C'
+[2019.02.26-18.13.16:576][598]LogWorld: Bringing World /Game/Benji/UEDPIE_0_BenjiScene.BenjiScene up for play (max tick rate 60) at 2019.02.26-19.13.16
+[2019.02.26-18.13.16:576][598]LogWorld: Bringing up level for play took: 0.000442
+[2019.02.26-18.13.16:653][598]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2019.02.26-18.13.16:698][598]PIE: Play in editor start time for /Game/Benji/UEDPIE_0_BenjiScene 0,402
+[2019.02.26-18.13.16:698][598]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel' has LevelScriptBlueprint '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel.BenjiScene' with GeneratedClass '/Game/Benji/BenjiScene.BenjiScene_C' with ClassGeneratedBy '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel.BenjiScene'
+[2019.02.26-18.13.16:762][598]LogRenderer: Reallocating scene render targets to support 1292x756 Format 10 NumSamples 1 (Frame:1).
+[2019.02.26-18.13.18:441][688]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel' has LevelScriptBlueprint '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel.BenjiScene' with GeneratedClass '/Game/Benji/BenjiScene.BenjiScene_C' with ClassGeneratedBy '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel.BenjiScene'
+[2019.02.26-18.13.18:441][688]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.26-18.13.18:454][688]LogSlate: Window 'EndlessRunnerLuc Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.02.26-18.13.18:490][688]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.26-18.13.18:490][688]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel' has LevelScriptBlueprint '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel.BenjiScene' with GeneratedClass '/Game/Benji/BenjiScene.BenjiScene_C' with ClassGeneratedBy '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel.BenjiScene'
+[2019.02.26-18.13.18:558][690]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.02.26-18.13.55:689][888]LogSlate: Took 0.331524 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.02.26-18.17.49:635][867]BlueprintLog: New page: Compile BP_Player
+[2019.02.26-18.17.50:371][890]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Benji/Prefab/BP_Player" FILE="../../../../../../Projets/Unreal/Unreal_EndlessRunner/EndlessRunnerSeb/EndlessRunnerLuc/Content/Benji/Prefab/BP_Player.uasset" SILENT=true
+[2019.02.26-18.17.50:469][890]LogSavePackage: Moving '../../../../../../Projets/Unreal/Unreal_EndlessRunner/EndlessRunnerSeb/EndlessRunnerLuc/Saved/BP_Player2D28C3784F6CDFBF4C6FC1A3EAA58836.tmp' to '../../../../../../Projets/Unreal/Unreal_EndlessRunner/EndlessRunnerSeb/EndlessRunnerLuc/Content/Benji/Prefab/BP_Player.uasset'
+[2019.02.26-18.17.51:738][966]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.26-18.17.51:755][966]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel' has LevelScriptBlueprint '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel.BenjiScene' with GeneratedClass '/Game/Benji/BenjiScene.BenjiScene_C' with ClassGeneratedBy '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel.BenjiScene'
+[2019.02.26-18.17.51:755][966]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.26-18.17.51:756][966]PIE: New page: PIE session: BenjiScene (26 févr. 2019 20:17:51)
+[2019.02.26-18.17.51:756][966]LogPlayLevel: Creating play world package: /Game/Benji/UEDPIE_0_BenjiScene
+[2019.02.26-18.17.51:757][966]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001277s)
+[2019.02.26-18.17.51:757][966]LogAIModule: Creating AISystem for world BenjiScene
+[2019.02.26-18.17.51:757][966]LogPlayLevel: PIE: World Init took: (0.000460s)
+[2019.02.26-18.17.51:757][966]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Benji/BenjiScene.BenjiScene to /Game/Benji/UEDPIE_0_BenjiScene.BenjiScene (0.001826s)
+[2019.02.26-18.17.51:789][966]LogInit: XAudio2 using 'Headset Earphone (Razer Kraken 7.1 V2)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.02.26-18.17.51:826][966]LogInit: FAudioDevice initialized.
+[2019.02.26-18.17.51:833][966]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.26-18.17.51:862][966]LogLoad: Game class is 'EndlessRunner_C'
+[2019.02.26-18.17.51:863][966]LogWorld: Bringing World /Game/Benji/UEDPIE_0_BenjiScene.BenjiScene up for play (max tick rate 60) at 2019.02.26-19.17.51
+[2019.02.26-18.17.51:863][966]LogWorld: Bringing up level for play took: 0.000506
+[2019.02.26-18.17.51:888][966]PIE: Play in editor start time for /Game/Benji/UEDPIE_0_BenjiScene -0,408
+[2019.02.26-18.17.51:888][966]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel' has LevelScriptBlueprint '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel.BenjiScene' with GeneratedClass '/Game/Benji/BenjiScene.BenjiScene_C' with ClassGeneratedBy '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel.BenjiScene'
+[2019.02.26-18.17.56:148][219]LogBlueprintUserMessages: [BP_Player_C_0] 1
+[2019.02.26-18.17.56:466][238]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel' has LevelScriptBlueprint '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel.BenjiScene' with GeneratedClass '/Game/Benji/BenjiScene.BenjiScene_C' with ClassGeneratedBy '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel.BenjiScene'
+[2019.02.26-18.17.56:467][238]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.26-18.17.56:479][238]LogSlate: Window 'EndlessRunnerLuc Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.02.26-18.17.56:509][238]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.26-18.17.56:509][238]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel' has LevelScriptBlueprint '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel.BenjiScene' with GeneratedClass '/Game/Benji/BenjiScene.BenjiScene_C' with ClassGeneratedBy '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel.BenjiScene'
+[2019.02.26-18.17.56:571][240]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.02.26-18.18.04:703][725]BlueprintLog: New page: Compile BP_Player
+[2019.02.26-18.18.05:324][742]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Benji/Prefab/BP_Player" FILE="../../../../../../Projets/Unreal/Unreal_EndlessRunner/EndlessRunnerSeb/EndlessRunnerLuc/Content/Benji/Prefab/BP_Player.uasset" SILENT=true
+[2019.02.26-18.18.05:424][742]LogSavePackage: Moving '../../../../../../Projets/Unreal/Unreal_EndlessRunner/EndlessRunnerSeb/EndlessRunnerLuc/Saved/BP_Player8BF2BB4B4573F57E8699E19ED10DCAED.tmp' to '../../../../../../Projets/Unreal/Unreal_EndlessRunner/EndlessRunnerSeb/EndlessRunnerLuc/Content/Benji/Prefab/BP_Player.uasset'
+[2019.02.26-18.18.06:257][792]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.26-18.18.06:275][792]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel' has LevelScriptBlueprint '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel.BenjiScene' with GeneratedClass '/Game/Benji/BenjiScene.BenjiScene_C' with ClassGeneratedBy '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel.BenjiScene'
+[2019.02.26-18.18.06:275][792]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.26-18.18.06:275][792]PIE: New page: PIE session: BenjiScene (26 févr. 2019 20:18:06)
+[2019.02.26-18.18.06:275][792]LogPlayLevel: Creating play world package: /Game/Benji/UEDPIE_0_BenjiScene
+[2019.02.26-18.18.06:277][792]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001227s)
+[2019.02.26-18.18.06:277][792]LogAIModule: Creating AISystem for world BenjiScene
+[2019.02.26-18.18.06:277][792]LogPlayLevel: PIE: World Init took: (0.000432s)
+[2019.02.26-18.18.06:277][792]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Benji/BenjiScene.BenjiScene to /Game/Benji/UEDPIE_0_BenjiScene.BenjiScene (0.001747s)
+[2019.02.26-18.18.06:313][792]LogInit: XAudio2 using 'Headset Earphone (Razer Kraken 7.1 V2)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.02.26-18.18.06:350][792]LogInit: FAudioDevice initialized.
+[2019.02.26-18.18.06:356][792]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.26-18.18.06:391][792]LogLoad: Game class is 'EndlessRunner_C'
+[2019.02.26-18.18.06:392][792]LogWorld: Bringing World /Game/Benji/UEDPIE_0_BenjiScene.BenjiScene up for play (max tick rate 60) at 2019.02.26-19.18.06
+[2019.02.26-18.18.06:392][792]LogWorld: Bringing up level for play took: 0.000435
+[2019.02.26-18.18.06:416][792]PIE: Play in editor start time for /Game/Benji/UEDPIE_0_BenjiScene 0,12
+[2019.02.26-18.18.06:417][792]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel' has LevelScriptBlueprint '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel.BenjiScene' with GeneratedClass '/Game/Benji/BenjiScene.BenjiScene_C' with ClassGeneratedBy '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel.BenjiScene'
+[2019.02.26-18.18.42:453][950]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel' has LevelScriptBlueprint '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel.BenjiScene' with GeneratedClass '/Game/Benji/BenjiScene.BenjiScene_C' with ClassGeneratedBy '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel.BenjiScene'
+[2019.02.26-18.18.42:453][950]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.26-18.18.42:466][950]LogSlate: Window 'EndlessRunnerLuc Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.02.26-18.18.42:502][950]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.26-18.18.42:502][950]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel' has LevelScriptBlueprint '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel.BenjiScene' with GeneratedClass '/Game/Benji/BenjiScene.BenjiScene_C' with ClassGeneratedBy '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel.BenjiScene'
+[2019.02.26-18.18.42:570][952]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2019.02.26-18.18.44:577][ 71]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Benji/Prefab/BP_Player" FILE="../../../../../../Projets/Unreal/Unreal_EndlessRunner/EndlessRunnerSeb/EndlessRunnerLuc/Content/Benji/Prefab/BP_Player.uasset" SILENT=true
+[2019.02.26-18.18.44:669][ 71]LogSavePackage: Moving '../../../../../../Projets/Unreal/Unreal_EndlessRunner/EndlessRunnerSeb/EndlessRunnerLuc/Saved/BP_PlayerF5F82300455F5314E53C43B714500C28.tmp' to '../../../../../../Projets/Unreal/Unreal_EndlessRunner/EndlessRunnerSeb/EndlessRunnerLuc/Content/Benji/Prefab/BP_Player.uasset'
+[2019.02.26-18.20.07:544][ 23]BlueprintLog: New page: Compile BP_Player
+[2019.02.26-18.20.08:392][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Benji/Prefab/BP_Player" FILE="../../../../../../Projets/Unreal/Unreal_EndlessRunner/EndlessRunnerSeb/EndlessRunnerLuc/Content/Benji/Prefab/BP_Player.uasset" SILENT=true
+[2019.02.26-18.20.08:491][ 54]LogSavePackage: Moving '../../../../../../Projets/Unreal/Unreal_EndlessRunner/EndlessRunnerSeb/EndlessRunnerLuc/Saved/BP_Player7D5774114CD81212C57D5DBCBF6F05A3.tmp' to '../../../../../../Projets/Unreal/Unreal_EndlessRunner/EndlessRunnerSeb/EndlessRunnerLuc/Content/Benji/Prefab/BP_Player.uasset'
+[2019.02.26-18.20.17:209][577]BlueprintLog: New page: Compile BP_Player
+[2019.02.26-18.20.17:911][599]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Benji/Prefab/BP_Player" FILE="../../../../../../Projets/Unreal/Unreal_EndlessRunner/EndlessRunnerSeb/EndlessRunnerLuc/Content/Benji/Prefab/BP_Player.uasset" SILENT=true
+[2019.02.26-18.20.18:010][599]LogSavePackage: Moving '../../../../../../Projets/Unreal/Unreal_EndlessRunner/EndlessRunnerSeb/EndlessRunnerLuc/Saved/BP_PlayerE7B66F7E47920DAAB254C8B0DACF94D3.tmp' to '../../../../../../Projets/Unreal/Unreal_EndlessRunner/EndlessRunnerSeb/EndlessRunnerLuc/Content/Benji/Prefab/BP_Player.uasset'
+[2019.02.26-18.22.04:550][971]BlueprintLog: New page: Compile BP_Player
+[2019.02.26-18.22.21:525][963]BlueprintLog: New page: Compile BP_Player
+[2019.02.26-18.22.22:410][997]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Benji/Prefab/BP_Player" FILE="../../../../../../Projets/Unreal/Unreal_EndlessRunner/EndlessRunnerSeb/EndlessRunnerLuc/Content/Benji/Prefab/BP_Player.uasset" SILENT=true
+[2019.02.26-18.22.22:512][997]LogSavePackage: Moving '../../../../../../Projets/Unreal/Unreal_EndlessRunner/EndlessRunnerSeb/EndlessRunnerLuc/Saved/BP_Player9411F21342300CC0FED775A08F586008.tmp' to '../../../../../../Projets/Unreal/Unreal_EndlessRunner/EndlessRunnerSeb/EndlessRunnerLuc/Content/Benji/Prefab/BP_Player.uasset'
+[2019.02.26-18.22.23:474][ 54]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.26-18.22.23:493][ 54]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel' has LevelScriptBlueprint '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel.BenjiScene' with GeneratedClass '/Game/Benji/BenjiScene.BenjiScene_C' with ClassGeneratedBy '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel.BenjiScene'
+[2019.02.26-18.22.23:493][ 54]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.26-18.22.23:493][ 54]PIE: New page: PIE session: BenjiScene (26 févr. 2019 20:22:23)
+[2019.02.26-18.22.23:493][ 54]LogPlayLevel: Creating play world package: /Game/Benji/UEDPIE_0_BenjiScene
+[2019.02.26-18.22.23:495][ 54]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001663s)
+[2019.02.26-18.22.23:495][ 54]LogAIModule: Creating AISystem for world BenjiScene
+[2019.02.26-18.22.23:495][ 54]LogPlayLevel: PIE: World Init took: (0.000656s)
+[2019.02.26-18.22.23:495][ 54]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Benji/BenjiScene.BenjiScene to /Game/Benji/UEDPIE_0_BenjiScene.BenjiScene (0.002446s)
+[2019.02.26-18.22.23:532][ 54]LogInit: XAudio2 using 'Headset Earphone (Razer Kraken 7.1 V2)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.02.26-18.22.23:570][ 54]LogInit: FAudioDevice initialized.
+[2019.02.26-18.22.23:578][ 54]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.26-18.22.23:609][ 54]LogLoad: Game class is 'EndlessRunner_C'
+[2019.02.26-18.22.23:610][ 54]LogWorld: Bringing World /Game/Benji/UEDPIE_0_BenjiScene.BenjiScene up for play (max tick rate 60) at 2019.02.26-19.22.23
+[2019.02.26-18.22.23:610][ 54]LogWorld: Bringing up level for play took: 0.000525
+[2019.02.26-18.22.23:625][ 54]LogBlueprintUserMessages: [BP_Player_C_0] 10
+[2019.02.26-18.22.23:636][ 54]PIE: Play in editor start time for /Game/Benji/UEDPIE_0_BenjiScene -0,66
+[2019.02.26-18.22.23:636][ 54]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel' has LevelScriptBlueprint '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel.BenjiScene' with GeneratedClass '/Game/Benji/BenjiScene.BenjiScene_C' with ClassGeneratedBy '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel.BenjiScene'
+[2019.02.26-18.22.24:152][ 82]LogBlueprintUserMessages: [BP_Player_C_0] 20
+[2019.02.26-18.22.25:352][154]LogBlueprintUserMessages: [BP_Player_C_0] 30
+[2019.02.26-18.22.26:552][226]LogBlueprintUserMessages: [BP_Player_C_0] 40
+[2019.02.26-18.22.27:752][298]LogBlueprintUserMessages: [BP_Player_C_0] 50
+[2019.02.26-18.22.28:952][370]LogBlueprintUserMessages: [BP_Player_C_0] 60
+[2019.02.26-18.22.30:153][442]LogBlueprintUserMessages: [BP_Player_C_0] 70
+[2019.02.26-18.22.31:352][514]LogBlueprintUserMessages: [BP_Player_C_0] 80
+[2019.02.26-18.22.32:552][586]LogBlueprintUserMessages: [BP_Player_C_0] 90
+[2019.02.26-18.22.33:752][658]LogBlueprintUserMessages: [BP_Player_C_0] 100
+[2019.02.26-18.22.34:953][730]LogBlueprintUserMessages: [BP_Player_C_0] 110
+[2019.02.26-18.22.35:569][767]LogBlueprintUserMessages: [BP_Player_C_0] 120
+[2019.02.26-18.22.36:694][885]LogBlueprintUserMessages: [BP_Player_C_0] 130
+[2019.02.26-18.22.37:826][ 20]LogBlueprintUserMessages: [BP_Player_C_0] 140
+[2019.02.26-18.22.38:944][154]LogBlueprintUserMessages: [BP_Player_C_0] 150
+[2019.02.26-18.22.40:071][289]LogBlueprintUserMessages: [BP_Player_C_0] 160
+[2019.02.26-18.22.40:595][352]LogBlueprintUserMessages: [BP_Player_C_0] 170
+[2019.02.26-18.22.41:751][485]LogBlueprintUserMessages: [BP_Player_C_0] 180
+[2019.02.26-18.22.42:888][621]LogBlueprintUserMessages: [BP_Player_C_0] 190
+[2019.02.26-18.22.44:018][756]LogBlueprintUserMessages: [BP_Player_C_0] 200
+[2019.02.26-18.22.45:153][892]LogBlueprintUserMessages: [BP_Player_C_0] 210
+[2019.02.26-18.22.46:282][ 27]LogBlueprintUserMessages: [BP_Player_C_0] 220
+[2019.02.26-18.22.47:419][163]LogBlueprintUserMessages: [BP_Player_C_0] 230
+[2019.02.26-18.22.48:546][298]LogBlueprintUserMessages: [BP_Player_C_0] 240
+[2019.02.26-18.22.49:216][378]LogBlueprintUserMessages: [BP_Player_C_0] 250
+[2019.02.26-18.22.50:418][522]LogBlueprintUserMessages: [BP_Player_C_0] 260
+[2019.02.26-18.22.51:619][666]LogBlueprintUserMessages: [BP_Player_C_0] 270
+[2019.02.26-18.22.52:818][808]LogBlueprintUserMessages: [BP_Player_C_0] 280
+[2019.02.26-18.22.54:016][951]LogBlueprintUserMessages: [BP_Player_C_0] 290
+[2019.02.26-18.22.55:217][ 94]LogBlueprintUserMessages: [BP_Player_C_0] 300
+[2019.02.26-18.22.56:414][237]LogBlueprintUserMessages: [BP_Player_C_0] 310
+[2019.02.26-18.22.56:498][247]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel' has LevelScriptBlueprint '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel.BenjiScene' with GeneratedClass '/Game/Benji/BenjiScene.BenjiScene_C' with ClassGeneratedBy '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel.BenjiScene'
+[2019.02.26-18.22.56:498][247]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.26-18.22.56:511][247]LogSlate: Window 'EndlessRunnerLuc Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.02.26-18.22.56:543][247]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.26-18.22.56:543][247]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel' has LevelScriptBlueprint '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel.BenjiScene' with GeneratedClass '/Game/Benji/BenjiScene.BenjiScene_C' with ClassGeneratedBy '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel.BenjiScene'
+[2019.02.26-18.22.56:602][248]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.02.26-18.23.04:781][208]BlueprintLog: New page: Compile BP_Player
+[2019.02.26-18.23.05:415][237]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Benji/Prefab/BP_Player" FILE="../../../../../../Projets/Unreal/Unreal_EndlessRunner/EndlessRunnerSeb/EndlessRunnerLuc/Content/Benji/Prefab/BP_Player.uasset" SILENT=true
+[2019.02.26-18.23.05:518][237]LogSavePackage: Moving '../../../../../../Projets/Unreal/Unreal_EndlessRunner/EndlessRunnerSeb/EndlessRunnerLuc/Saved/BP_Player16DC2DE94CA8C994307CA5A774EC2A6A.tmp' to '../../../../../../Projets/Unreal/Unreal_EndlessRunner/EndlessRunnerSeb/EndlessRunnerLuc/Content/Benji/Prefab/BP_Player.uasset'
+[2019.02.26-18.24.28:238][ 12]BlueprintLog: New page: Compile PlayerWidget
+[2019.02.26-18.24.28:246][ 12]LogBlueprint: Warning: [Compiler PlayerWidget] 'BP Player' does not inherit from 'Character' ( Cast To BP_Player  would always fail).
+[2019.02.26-18.24.28:293][ 12]LogBlueprint: Warning: [Compiler PlayerWidget] [1049,72] Compile of PlayerWidget successful, but with 1 Warning(s) [in 54 ms] (/Game/Benji/Blueprints/PlayerWidget.PlayerWidget)
+[2019.02.26-18.24.28:827][ 69]LogSavePackage: Moving '../../../../../../Projets/Unreal/Unreal_EndlessRunner/EndlessRunnerSeb/EndlessRunnerLuc/Saved/PlayerWidget40D7DA5949B2354A63581FBDA459D182.tmp' to '../../../../../../Projets/Unreal/Unreal_EndlessRunner/EndlessRunnerSeb/EndlessRunnerLuc/Content/Benji/Blueprints/PlayerWidget.uasset'
+[2019.02.26-18.24.49:212][491]BlueprintLog: New page: Compile PlayerWidget
+[2019.02.26-18.24.49:220][491]LogBlueprint: Warning: [Compiler PlayerWidget] 'BP Player' does not inherit from 'Player Controller' ( Cast To BP_Player  would always fail).
+[2019.02.26-18.24.49:263][491]LogBlueprint: Warning: [Compiler PlayerWidget] [1070,69] Compile of PlayerWidget successful, but with 1 Warning(s) [in 50 ms] (/Game/Benji/Blueprints/PlayerWidget.PlayerWidget)
+[2019.02.26-18.25.00:935][872]BlueprintLog: New page: Compile PlayerWidget
+[2019.02.26-18.25.01:767][961]LogSavePackage: Moving '../../../../../../Projets/Unreal/Unreal_EndlessRunner/EndlessRunnerSeb/EndlessRunnerLuc/Saved/PlayerWidget985961154CA5B1E99E0AD79679B69746.tmp' to '../../../../../../Projets/Unreal/Unreal_EndlessRunner/EndlessRunnerSeb/EndlessRunnerLuc/Content/Benji/Blueprints/PlayerWidget.uasset'
+[2019.02.26-18.25.04:799][317]LogSavePackage: Moving '../../../../../../Projets/Unreal/Unreal_EndlessRunner/EndlessRunnerSeb/EndlessRunnerLuc/Saved/PlayerWidgetED30315248E6A201775E6A94825C9E23.tmp' to '../../../../../../Projets/Unreal/Unreal_EndlessRunner/EndlessRunnerSeb/EndlessRunnerLuc/Content/Benji/Blueprints/PlayerWidget.uasset'
+[2019.02.26-18.25.06:025][459]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.26-18.25.06:048][459]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel' has LevelScriptBlueprint '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel.BenjiScene' with GeneratedClass '/Game/Benji/BenjiScene.BenjiScene_C' with ClassGeneratedBy '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel.BenjiScene'
+[2019.02.26-18.25.06:048][459]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.26-18.25.06:048][459]PIE: New page: PIE session: BenjiScene (26 févr. 2019 20:25:06)
+[2019.02.26-18.25.06:048][459]LogPlayLevel: Creating play world package: /Game/Benji/UEDPIE_0_BenjiScene
+[2019.02.26-18.25.06:050][459]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001369s)
+[2019.02.26-18.25.06:050][459]LogAIModule: Creating AISystem for world BenjiScene
+[2019.02.26-18.25.06:050][459]LogPlayLevel: PIE: World Init took: (0.000469s)
+[2019.02.26-18.25.06:050][459]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Benji/BenjiScene.BenjiScene to /Game/Benji/UEDPIE_0_BenjiScene.BenjiScene (0.001945s)
+[2019.02.26-18.25.06:083][459]LogInit: XAudio2 using 'Headset Earphone (Razer Kraken 7.1 V2)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.02.26-18.25.06:120][459]LogInit: FAudioDevice initialized.
+[2019.02.26-18.25.06:127][459]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.26-18.25.06:159][459]LogLoad: Game class is 'EndlessRunner_C'
+[2019.02.26-18.25.06:160][459]LogWorld: Bringing World /Game/Benji/UEDPIE_0_BenjiScene.BenjiScene up for play (max tick rate 0) at 2019.02.26-19.25.06
+[2019.02.26-18.25.06:160][459]LogWorld: Bringing up level for play took: 0.000550
+[2019.02.26-18.25.06:182][459]PIE: Play in editor start time for /Game/Benji/UEDPIE_0_BenjiScene -0,114
+[2019.02.26-18.25.06:182][459]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel' has LevelScriptBlueprint '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel.BenjiScene' with GeneratedClass '/Game/Benji/BenjiScene.BenjiScene_C' with ClassGeneratedBy '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel.BenjiScene'
+[2019.02.26-18.25.28:858][135]LogBlueprintUserMessages: [BP_Player_C_0] 2
+[2019.02.26-18.25.31:247][420]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.26-18.25.31:339][431]Cmd: restartlevel
+[2019.02.26-18.25.31:385][431]LogNet: Browse: /Game/Benji/BenjiScene?restart
+[2019.02.26-18.25.31:385][431]LogLoad: LoadMap: /Game/Benji/BenjiScene
+[2019.02.26-18.25.31:416][431]LogPlayLevel: Creating play world package: /Game/Benji/UEDPIE_0_BenjiScene
+[2019.02.26-18.25.31:417][431]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001164s)
+[2019.02.26-18.25.31:418][431]LogAIModule: Creating AISystem for world BenjiScene
+[2019.02.26-18.25.31:418][431]LogPlayLevel: PIE: World Init took: (0.000429s)
+[2019.02.26-18.25.31:418][431]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Benji/BenjiScene.BenjiScene to /Game/Benji/UEDPIE_0_BenjiScene.BenjiScene (0.001714s)
+[2019.02.26-18.25.31:418][431]LogLoad: Game class is 'EndlessRunner_C'
+[2019.02.26-18.25.31:419][431]LogWorld: Bringing World /Game/Benji/UEDPIE_0_BenjiScene.BenjiScene up for play (max tick rate 0) at 2019.02.26-19.25.31
+[2019.02.26-18.25.31:419][431]LogWorld: Bringing up level for play took: 0.000325
+[2019.02.26-18.25.31:428][431]LogLoad: Took 0.043532 seconds to LoadMap(/Game/Benji/UEDPIE_0_BenjiScene)
+[2019.02.26-18.25.32:795][583]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel' has LevelScriptBlueprint '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel.BenjiScene' with GeneratedClass '/Game/Benji/BenjiScene.BenjiScene_C' with ClassGeneratedBy '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel.BenjiScene'
+[2019.02.26-18.25.32:796][583]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.26-18.25.32:808][583]LogSlate: Window 'EndlessRunnerLuc Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.02.26-18.25.32:844][583]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.26-18.25.32:844][583]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel' has LevelScriptBlueprint '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel.BenjiScene' with GeneratedClass '/Game/Benji/BenjiScene.BenjiScene_C' with ClassGeneratedBy '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel.BenjiScene'
+[2019.02.26-18.25.32:899][585]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2019.02.26-18.26.18:957][ 79]BlueprintLog: New page: Compile BP_Player
+[2019.02.26-18.26.19:852][141]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Benji/Prefab/BP_Player" FILE="../../../../../../Projets/Unreal/Unreal_EndlessRunner/EndlessRunnerSeb/EndlessRunnerLuc/Content/Benji/Prefab/BP_Player.uasset" SILENT=true
+[2019.02.26-18.26.19:954][141]LogSavePackage: Moving '../../../../../../Projets/Unreal/Unreal_EndlessRunner/EndlessRunnerSeb/EndlessRunnerLuc/Saved/BP_PlayerA224C2E04A9674C1BA94298310EF0AA0.tmp' to '../../../../../../Projets/Unreal/Unreal_EndlessRunner/EndlessRunnerSeb/EndlessRunnerLuc/Content/Benji/Prefab/BP_Player.uasset'
+[2019.02.26-18.26.22:164][400]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.26-18.26.22:182][400]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel' has LevelScriptBlueprint '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel.BenjiScene' with GeneratedClass '/Game/Benji/BenjiScene.BenjiScene_C' with ClassGeneratedBy '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel.BenjiScene'
+[2019.02.26-18.26.22:182][400]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.26-18.26.22:182][400]PIE: New page: PIE session: BenjiScene (26 févr. 2019 20:26:22)
+[2019.02.26-18.26.22:182][400]LogPlayLevel: Creating play world package: /Game/Benji/UEDPIE_0_BenjiScene
+[2019.02.26-18.26.22:183][400]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001176s)
+[2019.02.26-18.26.22:184][400]LogAIModule: Creating AISystem for world BenjiScene
+[2019.02.26-18.26.22:184][400]LogPlayLevel: PIE: World Init took: (0.000415s)
+[2019.02.26-18.26.22:184][400]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Benji/BenjiScene.BenjiScene to /Game/Benji/UEDPIE_0_BenjiScene.BenjiScene (0.001672s)
+[2019.02.26-18.26.22:235][400]LogInit: XAudio2 using 'Headset Earphone (Razer Kraken 7.1 V2)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.02.26-18.26.22:274][400]LogInit: FAudioDevice initialized.
+[2019.02.26-18.26.22:280][400]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.26-18.26.22:312][400]LogLoad: Game class is 'EndlessRunner_C'
+[2019.02.26-18.26.22:313][400]LogWorld: Bringing World /Game/Benji/UEDPIE_0_BenjiScene.BenjiScene up for play (max tick rate 0) at 2019.02.26-19.26.22
+[2019.02.26-18.26.22:313][400]LogWorld: Bringing up level for play took: 0.000617
+[2019.02.26-18.26.22:335][400]PIE: Play in editor start time for /Game/Benji/UEDPIE_0_BenjiScene 0,04
+[2019.02.26-18.26.22:336][400]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel' has LevelScriptBlueprint '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel.BenjiScene' with GeneratedClass '/Game/Benji/BenjiScene.BenjiScene_C' with ClassGeneratedBy '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel.BenjiScene'
+[2019.02.26-18.26.25:149][703]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel' has LevelScriptBlueprint '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel.BenjiScene' with GeneratedClass '/Game/Benji/BenjiScene.BenjiScene_C' with ClassGeneratedBy '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel.BenjiScene'
+[2019.02.26-18.26.25:149][703]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.26-18.26.25:161][703]LogSlate: Window 'EndlessRunnerLuc Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.02.26-18.26.25:193][703]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.26-18.26.25:194][703]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel' has LevelScriptBlueprint '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel.BenjiScene' with GeneratedClass '/Game/Benji/BenjiScene.BenjiScene_C' with ClassGeneratedBy '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel.BenjiScene'
+[2019.02.26-18.26.25:254][704]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2019.02.26-18.26.25:775][758]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.26-18.26.25:792][758]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel' has LevelScriptBlueprint '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel.BenjiScene' with GeneratedClass '/Game/Benji/BenjiScene.BenjiScene_C' with ClassGeneratedBy '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel.BenjiScene'
+[2019.02.26-18.26.25:792][758]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.26-18.26.25:792][758]PIE: New page: PIE session: BenjiScene (26 févr. 2019 20:26:25)
+[2019.02.26-18.26.25:792][758]LogPlayLevel: Creating play world package: /Game/Benji/UEDPIE_0_BenjiScene
+[2019.02.26-18.26.25:793][758]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001157s)
+[2019.02.26-18.26.25:794][758]LogAIModule: Creating AISystem for world BenjiScene
+[2019.02.26-18.26.25:794][758]LogPlayLevel: PIE: World Init took: (0.000400s)
+[2019.02.26-18.26.25:794][758]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Benji/BenjiScene.BenjiScene to /Game/Benji/UEDPIE_0_BenjiScene.BenjiScene (0.001639s)
+[2019.02.26-18.26.25:826][758]LogInit: XAudio2 using 'Headset Earphone (Razer Kraken 7.1 V2)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.02.26-18.26.25:864][758]LogInit: FAudioDevice initialized.
+[2019.02.26-18.26.25:896][758]LogLoad: Game class is 'EndlessRunner_C'
+[2019.02.26-18.26.25:897][758]LogWorld: Bringing World /Game/Benji/UEDPIE_0_BenjiScene.BenjiScene up for play (max tick rate 0) at 2019.02.26-19.26.25
+[2019.02.26-18.26.25:897][758]LogWorld: Bringing up level for play took: 0.000380
+[2019.02.26-18.26.25:918][758]PIE: Play in editor start time for /Game/Benji/UEDPIE_0_BenjiScene -0,378
+[2019.02.26-18.26.25:918][758]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel' has LevelScriptBlueprint '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel.BenjiScene' with GeneratedClass '/Game/Benji/BenjiScene.BenjiScene_C' with ClassGeneratedBy '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel.BenjiScene'
+[2019.02.26-18.26.38:646][256]LogBlueprintUserMessages: [BP_Player_C_0] 2
+[2019.02.26-18.26.43:022][775]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.26-18.26.43:114][786]Cmd: restartlevel
+[2019.02.26-18.26.43:114][786]LogNet: Browse: /Game/Benji/BenjiScene?restart
+[2019.02.26-18.26.43:114][786]LogLoad: LoadMap: /Game/Benji/BenjiScene
+[2019.02.26-18.26.43:145][786]LogPlayLevel: Creating play world package: /Game/Benji/UEDPIE_0_BenjiScene
+[2019.02.26-18.26.43:146][786]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001183s)
+[2019.02.26-18.26.43:147][786]LogAIModule: Creating AISystem for world BenjiScene
+[2019.02.26-18.26.43:147][786]LogPlayLevel: PIE: World Init took: (0.000479s)
+[2019.02.26-18.26.43:147][786]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Benji/BenjiScene.BenjiScene to /Game/Benji/UEDPIE_0_BenjiScene.BenjiScene (0.001803s)
+[2019.02.26-18.26.43:147][786]LogLoad: Game class is 'EndlessRunner_C'
+[2019.02.26-18.26.43:148][786]LogWorld: Bringing World /Game/Benji/UEDPIE_0_BenjiScene.BenjiScene up for play (max tick rate 0) at 2019.02.26-19.26.43
+[2019.02.26-18.26.43:148][786]LogWorld: Bringing up level for play took: 0.000349
+[2019.02.26-18.26.43:157][786]LogLoad: Took 0.043081 seconds to LoadMap(/Game/Benji/UEDPIE_0_BenjiScene)
+[2019.02.26-18.26.45:770][ 99]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel' has LevelScriptBlueprint '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel.BenjiScene' with GeneratedClass '/Game/Benji/BenjiScene.BenjiScene_C' with ClassGeneratedBy '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel.BenjiScene'
+[2019.02.26-18.26.45:771][ 99]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.26-18.26.45:804][ 99]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.26-18.26.45:805][ 99]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel' has LevelScriptBlueprint '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel.BenjiScene' with GeneratedClass '/Game/Benji/BenjiScene.BenjiScene_C' with ClassGeneratedBy '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel.BenjiScene'
+[2019.02.26-18.26.45:844][ 99]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.26-18.26.45:887][100]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.02.26-18.26.49:574][531]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.26-18.26.49:819][531]LogSavePackage: Moving '../../../../../../Projets/Unreal/Unreal_EndlessRunner/EndlessRunnerSeb/EndlessRunnerLuc/Saved/BenjiScene8C894D964F4EAC39E8612C98687FDD92.tmp' to '../../../../../../Projets/Unreal/Unreal_EndlessRunner/EndlessRunnerSeb/EndlessRunnerLuc/Content/Benji/BenjiScene.umap'
+[2019.02.26-18.27.02:002][969]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Benji/Blueprints/GameOverWidget.GameOverWidget
+[2019.02.26-18.29.13:193][398]LogSlate: Took 0.149115 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2019.02.26-18.30.03:564][413]BlueprintLog: New page: Compile GameOverWidget
+[2019.02.26-18.30.04:200][469]LogSavePackage: Moving '../../../../../../Projets/Unreal/Unreal_EndlessRunner/EndlessRunnerSeb/EndlessRunnerLuc/Saved/GameOverWidget03C38ED54F8AEE82C249A1BC29827DD7.tmp' to '../../../../../../Projets/Unreal/Unreal_EndlessRunner/EndlessRunnerSeb/EndlessRunnerLuc/Content/Benji/Blueprints/GameOverWidget.uasset'
+[2019.02.26-18.30.32:500][839]BlueprintLog: New page: Compile GameOverWidget
+[2019.02.26-18.30.33:116][899]LogSavePackage: Moving '../../../../../../Projets/Unreal/Unreal_EndlessRunner/EndlessRunnerSeb/EndlessRunnerLuc/Saved/GameOverWidget3204A53B4D566693E8C5869FDDFA5937.tmp' to '../../../../../../Projets/Unreal/Unreal_EndlessRunner/EndlessRunnerSeb/EndlessRunnerLuc/Content/Benji/Blueprints/GameOverWidget.uasset'
+[2019.02.26-18.30.35:622][199]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.26-18.30.35:642][199]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel' has LevelScriptBlueprint '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel.BenjiScene' with GeneratedClass '/Game/Benji/BenjiScene.BenjiScene_C' with ClassGeneratedBy '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel.BenjiScene'
+[2019.02.26-18.30.35:642][199]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.26-18.30.35:642][199]PIE: New page: PIE session: BenjiScene (26 févr. 2019 20:30:35)
+[2019.02.26-18.30.35:642][199]LogPlayLevel: Creating play world package: /Game/Benji/UEDPIE_0_BenjiScene
+[2019.02.26-18.30.35:643][199]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001227s)
+[2019.02.26-18.30.35:643][199]LogAIModule: Creating AISystem for world BenjiScene
+[2019.02.26-18.30.35:644][199]LogPlayLevel: PIE: World Init took: (0.000488s)
+[2019.02.26-18.30.35:644][199]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Benji/BenjiScene.BenjiScene to /Game/Benji/UEDPIE_0_BenjiScene.BenjiScene (0.001800s)
+[2019.02.26-18.30.35:681][199]LogInit: XAudio2 using 'Headset Earphone (Razer Kraken 7.1 V2)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.02.26-18.30.35:719][199]LogInit: FAudioDevice initialized.
+[2019.02.26-18.30.35:726][199]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.26-18.30.35:759][199]LogLoad: Game class is 'EndlessRunner_C'
+[2019.02.26-18.30.35:760][199]LogWorld: Bringing World /Game/Benji/UEDPIE_0_BenjiScene.BenjiScene up for play (max tick rate 0) at 2019.02.26-19.30.35
+[2019.02.26-18.30.35:760][199]LogWorld: Bringing up level for play took: 0.000748
+[2019.02.26-18.30.35:784][199]PIE: Play in editor start time for /Game/Benji/UEDPIE_0_BenjiScene -0,512
+[2019.02.26-18.30.35:785][199]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel' has LevelScriptBlueprint '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel.BenjiScene' with GeneratedClass '/Game/Benji/BenjiScene.BenjiScene_C' with ClassGeneratedBy '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel.BenjiScene'
+[2019.02.26-18.30.48:115][658]LogBlueprintUserMessages: [BP_Player_C_0] 2
+[2019.02.26-18.30.51:781][ 98]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.26-18.30.51:914][114]Cmd: restartlevel
+[2019.02.26-18.30.51:915][114]LogNet: Browse: /Game/Benji/BenjiScene?restart
+[2019.02.26-18.30.51:915][114]LogLoad: LoadMap: /Game/Benji/BenjiScene
+[2019.02.26-18.30.51:948][114]LogPlayLevel: Creating play world package: /Game/Benji/UEDPIE_0_BenjiScene
+[2019.02.26-18.30.51:949][114]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001167s)
+[2019.02.26-18.30.51:949][114]LogAIModule: Creating AISystem for world BenjiScene
+[2019.02.26-18.30.51:950][114]LogPlayLevel: PIE: World Init took: (0.000413s)
+[2019.02.26-18.30.51:950][114]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Benji/BenjiScene.BenjiScene to /Game/Benji/UEDPIE_0_BenjiScene.BenjiScene (0.001697s)
+[2019.02.26-18.30.51:950][114]LogLoad: Game class is 'EndlessRunner_C'
+[2019.02.26-18.30.51:951][114]LogWorld: Bringing World /Game/Benji/UEDPIE_0_BenjiScene.BenjiScene up for play (max tick rate 0) at 2019.02.26-19.30.51
+[2019.02.26-18.30.51:951][114]LogWorld: Bringing up level for play took: 0.000331
+[2019.02.26-18.30.51:960][114]LogLoad: Took 0.044686 seconds to LoadMap(/Game/Benji/UEDPIE_0_BenjiScene)
+[2019.02.26-18.30.53:179][260]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel' has LevelScriptBlueprint '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel.BenjiScene' with GeneratedClass '/Game/Benji/BenjiScene.BenjiScene_C' with ClassGeneratedBy '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel.BenjiScene'
+[2019.02.26-18.30.53:180][260]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.26-18.30.53:192][260]LogSlate: Window 'EndlessRunnerLuc Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.02.26-18.30.53:224][260]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.26-18.30.53:224][260]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel' has LevelScriptBlueprint '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel.BenjiScene' with GeneratedClass '/Game/Benji/BenjiScene.BenjiScene_C' with ClassGeneratedBy '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel.BenjiScene'
+[2019.02.26-18.30.53:309][263]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2019.02.26-18.31.37:105][462]LogSlate: Window 'Color Picker' being destroyed
+[2019.02.26-18.31.38:295][604]BlueprintLog: New page: Compile GameOverWidget
+[2019.02.26-18.31.38:998][668]LogSavePackage: Moving '../../../../../../Projets/Unreal/Unreal_EndlessRunner/EndlessRunnerSeb/EndlessRunnerLuc/Saved/GameOverWidget511065E34A154A943D1D398091AFDEC7.tmp' to '../../../../../../Projets/Unreal/Unreal_EndlessRunner/EndlessRunnerSeb/EndlessRunnerLuc/Content/Benji/Blueprints/GameOverWidget.uasset'
+[2019.02.26-18.31.39:898][775]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.26-18.31.39:921][775]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel' has LevelScriptBlueprint '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel.BenjiScene' with GeneratedClass '/Game/Benji/BenjiScene.BenjiScene_C' with ClassGeneratedBy '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel.BenjiScene'
+[2019.02.26-18.31.39:921][775]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.26-18.31.39:922][775]PIE: New page: PIE session: BenjiScene (26 févr. 2019 20:31:39)
+[2019.02.26-18.31.39:922][775]LogPlayLevel: Creating play world package: /Game/Benji/UEDPIE_0_BenjiScene
+[2019.02.26-18.31.39:923][775]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001219s)
+[2019.02.26-18.31.39:923][775]LogAIModule: Creating AISystem for world BenjiScene
+[2019.02.26-18.31.39:923][775]LogPlayLevel: PIE: World Init took: (0.000466s)
+[2019.02.26-18.31.39:923][775]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Benji/BenjiScene.BenjiScene to /Game/Benji/UEDPIE_0_BenjiScene.BenjiScene (0.001782s)
+[2019.02.26-18.31.39:958][775]LogInit: XAudio2 using 'Headset Earphone (Razer Kraken 7.1 V2)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.02.26-18.31.39:995][775]LogInit: FAudioDevice initialized.
+[2019.02.26-18.31.40:002][775]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.26-18.31.40:031][775]LogLoad: Game class is 'EndlessRunner_C'
+[2019.02.26-18.31.40:032][775]LogWorld: Bringing World /Game/Benji/UEDPIE_0_BenjiScene.BenjiScene up for play (max tick rate 0) at 2019.02.26-19.31.40
+[2019.02.26-18.31.40:032][775]LogWorld: Bringing up level for play took: 0.000435
+[2019.02.26-18.31.40:054][775]PIE: Play in editor start time for /Game/Benji/UEDPIE_0_BenjiScene -0,241
+[2019.02.26-18.31.40:055][775]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel' has LevelScriptBlueprint '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel.BenjiScene' with GeneratedClass '/Game/Benji/BenjiScene.BenjiScene_C' with ClassGeneratedBy '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel.BenjiScene'
+[2019.02.26-18.31.52:161][210]LogBlueprintUserMessages: [BP_Player_C_0] 2
+[2019.02.26-18.31.54:708][515]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.26-18.31.54:809][527]Cmd: restartlevel
+[2019.02.26-18.31.54:810][527]LogNet: Browse: /Game/Benji/BenjiScene?restart
+[2019.02.26-18.31.54:811][527]LogLoad: LoadMap: /Game/Benji/BenjiScene
+[2019.02.26-18.31.54:850][527]LogPlayLevel: Creating play world package: /Game/Benji/UEDPIE_0_BenjiScene
+[2019.02.26-18.31.54:851][527]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001208s)
+[2019.02.26-18.31.54:851][527]LogAIModule: Creating AISystem for world BenjiScene
+[2019.02.26-18.31.54:851][527]LogPlayLevel: PIE: World Init took: (0.000403s)
+[2019.02.26-18.31.54:851][527]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Benji/BenjiScene.BenjiScene to /Game/Benji/UEDPIE_0_BenjiScene.BenjiScene (0.001746s)
+[2019.02.26-18.31.54:851][527]LogLoad: Game class is 'EndlessRunner_C'
+[2019.02.26-18.31.54:852][527]LogWorld: Bringing World /Game/Benji/UEDPIE_0_BenjiScene.BenjiScene up for play (max tick rate 0) at 2019.02.26-19.31.54
+[2019.02.26-18.31.54:852][527]LogWorld: Bringing up level for play took: 0.000347
+[2019.02.26-18.31.54:862][527]LogLoad: Took 0.050652 seconds to LoadMap(/Game/Benji/UEDPIE_0_BenjiScene)
+[2019.02.26-18.31.55:534][607]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel' has LevelScriptBlueprint '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel.BenjiScene' with GeneratedClass '/Game/Benji/BenjiScene.BenjiScene_C' with ClassGeneratedBy '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel.BenjiScene'
+[2019.02.26-18.31.55:535][607]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.26-18.31.55:548][607]LogSlate: Window 'EndlessRunnerLuc Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.02.26-18.31.55:581][607]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.26-18.31.55:582][607]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel' has LevelScriptBlueprint '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel.BenjiScene' with GeneratedClass '/Game/Benji/BenjiScene.BenjiScene_C' with ClassGeneratedBy '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel.BenjiScene'
+[2019.02.26-18.31.55:667][610]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2019.02.26-18.32.16:467][ 97]BlueprintLog: New page: Compile GameOverWidget
+[2019.02.26-18.32.17:195][165]LogSavePackage: Moving '../../../../../../Projets/Unreal/Unreal_EndlessRunner/EndlessRunnerSeb/EndlessRunnerLuc/Saved/GameOverWidgetF5B4007F44DA8E7508DB0293258A47A8.tmp' to '../../../../../../Projets/Unreal/Unreal_EndlessRunner/EndlessRunnerSeb/EndlessRunnerLuc/Content/Benji/Blueprints/GameOverWidget.uasset'
+[2019.02.26-18.32.55:041][699]BlueprintLog: New page: Compile GameOverWidget
+[2019.02.26-18.32.55:714][757]LogSavePackage: Moving '../../../../../../Projets/Unreal/Unreal_EndlessRunner/EndlessRunnerSeb/EndlessRunnerLuc/Saved/GameOverWidget3E90C55F470FCE6D148FC1B61E70F9FA.tmp' to '../../../../../../Projets/Unreal/Unreal_EndlessRunner/EndlessRunnerSeb/EndlessRunnerLuc/Content/Benji/Blueprints/GameOverWidget.uasset'
+[2019.02.26-18.33.51:351][350]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Lucul/Prefabs/Main_Car.Main_Car
+[2019.02.26-18.33.52:234][351]LogRenderer: Reallocating scene render targets to support 1432x924 Format 10 NumSamples 1 (Frame:1).
+[2019.02.26-18.33.55:956][788]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.26-18.34.14:764][998]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.26-18.34.41:509][191]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.26-18.34.52:055][448]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lucul/Prefabs/Main_Car" FILE="../../../../../../Projets/Unreal/Unreal_EndlessRunner/EndlessRunnerSeb/EndlessRunnerLuc/Content/Lucul/Prefabs/Main_Car.uasset" SILENT=true
+[2019.02.26-18.34.52:071][448]LogSavePackage: Moving '../../../../../../Projets/Unreal/Unreal_EndlessRunner/EndlessRunnerSeb/EndlessRunnerLuc/Saved/Main_CarD11B6EA74F1089C74633DF9E675090D7.tmp' to '../../../../../../Projets/Unreal/Unreal_EndlessRunner/EndlessRunnerSeb/EndlessRunnerLuc/Content/Lucul/Prefabs/Main_Car.uasset'
+[2019.02.26-18.37.23:061][535]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Benji/BenjiScene' took 0.030
+[2019.02.26-18.37.23:383][535]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Benji/Prefab/BP_Player] ([1] browsable assets)...
+[2019.02.26-18.37.23:412][535]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Benji/Prefab/BP_Player.BP_Player]
+[2019.02.26-18.37.23:412][535]OBJ SavePackage: Finished generating thumbnails for package [/Game/Benji/Prefab/BP_Player]
+[2019.02.26-18.37.23:532][535]LogSavePackage: Moving '../../../../../../Projets/Unreal/Unreal_EndlessRunner/EndlessRunnerSeb/EndlessRunnerLuc/Saved/BP_Player_Auto1E25CB55F4FB3168045B6D7B627F7D2E4.tmp' to '../../../../../../Projets/Unreal/Unreal_EndlessRunner/EndlessRunnerSeb/EndlessRunnerLuc/Saved/Autosaves/Game/Benji/Prefab/BP_Player_Auto1.uasset'
+[2019.02.26-18.37.23:534][535]LogFileHelpers: Auto-saving content packages took 0.472
+[2019.02.26-18.43.25:040][ 47]BlueprintLog: New page: Compile BP_Player
+[2019.02.26-18.43.32:814][926]BlueprintLog: New page: Compile BP_Player
+[2019.02.26-18.43.33:718][980]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Benji/Prefab/BP_Player" FILE="../../../../../../Projets/Unreal/Unreal_EndlessRunner/EndlessRunnerSeb/EndlessRunnerLuc/Content/Benji/Prefab/BP_Player.uasset" SILENT=true
+[2019.02.26-18.43.33:822][980]LogSavePackage: Moving '../../../../../../Projets/Unreal/Unreal_EndlessRunner/EndlessRunnerSeb/EndlessRunnerLuc/Saved/BP_Player42B5736B4F7DECD31449AE8C6EEC5153.tmp' to '../../../../../../Projets/Unreal/Unreal_EndlessRunner/EndlessRunnerSeb/EndlessRunnerLuc/Content/Benji/Prefab/BP_Player.uasset'
+[2019.02.26-18.43.34:832][ 97]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.26-18.43.34:852][ 97]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel' has LevelScriptBlueprint '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel.BenjiScene' with GeneratedClass '/Game/Benji/BenjiScene.BenjiScene_C' with ClassGeneratedBy '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel.BenjiScene'
+[2019.02.26-18.43.34:853][ 97]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.26-18.43.34:853][ 97]PIE: New page: PIE session: BenjiScene (26 févr. 2019 20:43:34)
+[2019.02.26-18.43.34:853][ 97]LogPlayLevel: Creating play world package: /Game/Benji/UEDPIE_0_BenjiScene
+[2019.02.26-18.43.34:854][ 97]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001235s)
+[2019.02.26-18.43.34:854][ 97]LogAIModule: Creating AISystem for world BenjiScene
+[2019.02.26-18.43.34:855][ 97]LogPlayLevel: PIE: World Init took: (0.000483s)
+[2019.02.26-18.43.34:855][ 97]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Benji/BenjiScene.BenjiScene to /Game/Benji/UEDPIE_0_BenjiScene.BenjiScene (0.001864s)
+[2019.02.26-18.43.34:887][ 97]LogInit: XAudio2 using 'Headset Earphone (Razer Kraken 7.1 V2)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.02.26-18.43.34:925][ 97]LogInit: FAudioDevice initialized.
+[2019.02.26-18.43.34:931][ 97]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.26-18.43.34:962][ 97]LogLoad: Game class is 'EndlessRunner_C'
+[2019.02.26-18.43.34:963][ 97]LogWorld: Bringing World /Game/Benji/UEDPIE_0_BenjiScene.BenjiScene up for play (max tick rate 0) at 2019.02.26-19.43.34
+[2019.02.26-18.43.34:963][ 97]LogWorld: Bringing up level for play took: 0.000596
+[2019.02.26-18.43.34:986][ 97]PIE: Play in editor start time for /Game/Benji/UEDPIE_0_BenjiScene 0,69
+[2019.02.26-18.43.34:986][ 97]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel' has LevelScriptBlueprint '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel.BenjiScene' with GeneratedClass '/Game/Benji/BenjiScene.BenjiScene_C' with ClassGeneratedBy '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel.BenjiScene'
+[2019.02.26-18.43.47:163][544]LogBlueprintUserMessages: [BP_Player_C_0] 2
+[2019.02.26-18.43.56:792][427]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel' has LevelScriptBlueprint '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel.BenjiScene' with GeneratedClass '/Game/Benji/BenjiScene.BenjiScene_C' with ClassGeneratedBy '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel.BenjiScene'
+[2019.02.26-18.43.56:792][427]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.26-18.43.56:807][427]LogSlate: Window 'EndlessRunnerLuc Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.02.26-18.43.56:845][427]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.26-18.43.56:846][427]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel' has LevelScriptBlueprint '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel.BenjiScene' with GeneratedClass '/Game/Benji/BenjiScene.BenjiScene_C' with ClassGeneratedBy '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel.BenjiScene'
+[2019.02.26-18.43.56:917][428]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2019.02.26-18.44.20:888][244]BlueprintLog: New page: Compile BP_Player
+[2019.02.26-18.44.21:708][287]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Benji/Prefab/BP_Player" FILE="../../../../../../Projets/Unreal/Unreal_EndlessRunner/EndlessRunnerSeb/EndlessRunnerLuc/Content/Benji/Prefab/BP_Player.uasset" SILENT=true
+[2019.02.26-18.44.21:810][287]LogSavePackage: Moving '../../../../../../Projets/Unreal/Unreal_EndlessRunner/EndlessRunnerSeb/EndlessRunnerLuc/Saved/BP_Player475012384797EBC50A111CAC5C2D82EC.tmp' to '../../../../../../Projets/Unreal/Unreal_EndlessRunner/EndlessRunnerSeb/EndlessRunnerLuc/Content/Benji/Prefab/BP_Player.uasset'
+[2019.02.26-18.44.56:628][320]BlueprintLog: New page: Compile BP_Player
+[2019.02.26-18.44.57:307][341]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Benji/Prefab/BP_Player" FILE="../../../../../../Projets/Unreal/Unreal_EndlessRunner/EndlessRunnerSeb/EndlessRunnerLuc/Content/Benji/Prefab/BP_Player.uasset" SILENT=true
+[2019.02.26-18.44.57:416][341]LogSavePackage: Moving '../../../../../../Projets/Unreal/Unreal_EndlessRunner/EndlessRunnerSeb/EndlessRunnerLuc/Saved/BP_Player52B3C6BB40ACA183E7D8818E7695B966.tmp' to '../../../../../../Projets/Unreal/Unreal_EndlessRunner/EndlessRunnerSeb/EndlessRunnerLuc/Content/Benji/Prefab/BP_Player.uasset'
+[2019.02.26-18.44.58:392][433]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.26-18.44.58:412][433]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel' has LevelScriptBlueprint '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel.BenjiScene' with GeneratedClass '/Game/Benji/BenjiScene.BenjiScene_C' with ClassGeneratedBy '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel.BenjiScene'
+[2019.02.26-18.44.58:412][433]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.26-18.44.58:412][433]PIE: New page: PIE session: BenjiScene (26 févr. 2019 20:44:58)
+[2019.02.26-18.44.58:412][433]LogPlayLevel: Creating play world package: /Game/Benji/UEDPIE_0_BenjiScene
+[2019.02.26-18.44.58:413][433]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001290s)
+[2019.02.26-18.44.58:414][433]LogAIModule: Creating AISystem for world BenjiScene
+[2019.02.26-18.44.58:414][433]LogPlayLevel: PIE: World Init took: (0.000476s)
+[2019.02.26-18.44.58:414][433]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Benji/BenjiScene.BenjiScene to /Game/Benji/UEDPIE_0_BenjiScene.BenjiScene (0.001852s)
+[2019.02.26-18.44.58:450][433]LogInit: XAudio2 using 'Headset Earphone (Razer Kraken 7.1 V2)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.02.26-18.44.58:487][433]LogInit: FAudioDevice initialized.
+[2019.02.26-18.44.58:494][433]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.26-18.44.58:528][433]LogLoad: Game class is 'EndlessRunner_C'
+[2019.02.26-18.44.58:529][433]LogWorld: Bringing World /Game/Benji/UEDPIE_0_BenjiScene.BenjiScene up for play (max tick rate 0) at 2019.02.26-19.44.58
+[2019.02.26-18.44.58:529][433]LogWorld: Bringing up level for play took: 0.000659
+[2019.02.26-18.44.58:552][433]PIE: Play in editor start time for /Game/Benji/UEDPIE_0_BenjiScene 0,256
+[2019.02.26-18.44.58:552][433]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel' has LevelScriptBlueprint '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel.BenjiScene' with GeneratedClass '/Game/Benji/BenjiScene.BenjiScene_C' with ClassGeneratedBy '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel.BenjiScene'
+[2019.02.26-18.45.11:095][909]LogBlueprintUserMessages: [BP_Player_C_0] 2
+[2019.02.26-18.45.22:294][246]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel' has LevelScriptBlueprint '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel.BenjiScene' with GeneratedClass '/Game/Benji/BenjiScene.BenjiScene_C' with ClassGeneratedBy '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel.BenjiScene'
+[2019.02.26-18.45.22:294][246]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.26-18.45.22:307][246]LogSlate: Window 'EndlessRunnerLuc Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.02.26-18.45.22:343][246]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.26-18.45.22:344][246]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel' has LevelScriptBlueprint '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel.BenjiScene' with GeneratedClass '/Game/Benji/BenjiScene.BenjiScene_C' with ClassGeneratedBy '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel.BenjiScene'
+[2019.02.26-18.45.22:408][247]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2019.02.26-18.45.37:590][ 40]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Benji/Prefab/BP_Player" FILE="../../../../../../Projets/Unreal/Unreal_EndlessRunner/EndlessRunnerSeb/EndlessRunnerLuc/Content/Benji/Prefab/BP_Player.uasset" SILENT=true
+[2019.02.26-18.45.37:697][ 40]LogSavePackage: Moving '../../../../../../Projets/Unreal/Unreal_EndlessRunner/EndlessRunnerSeb/EndlessRunnerLuc/Saved/BP_Player4D7AE64843F6ABE5B2507B82E189C86F.tmp' to '../../../../../../Projets/Unreal/Unreal_EndlessRunner/EndlessRunnerSeb/EndlessRunnerLuc/Content/Benji/Prefab/BP_Player.uasset'
+[2019.02.26-18.45.39:704][266]BlueprintLog: New page: Compile BP_Player
+[2019.02.26-18.45.40:807][345]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Benji/Prefab/BP_Player" FILE="../../../../../../Projets/Unreal/Unreal_EndlessRunner/EndlessRunnerSeb/EndlessRunnerLuc/Content/Benji/Prefab/BP_Player.uasset" SILENT=true
+[2019.02.26-18.45.40:915][345]LogSavePackage: Moving '../../../../../../Projets/Unreal/Unreal_EndlessRunner/EndlessRunnerSeb/EndlessRunnerLuc/Saved/BP_Player9DBBE3F4498C3B5A00E7FAA1C96EDE53.tmp' to '../../../../../../Projets/Unreal/Unreal_EndlessRunner/EndlessRunnerSeb/EndlessRunnerLuc/Content/Benji/Prefab/BP_Player.uasset'
+[2019.02.26-18.45.41:987][472]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.26-18.45.42:007][472]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel' has LevelScriptBlueprint '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel.BenjiScene' with GeneratedClass '/Game/Benji/BenjiScene.BenjiScene_C' with ClassGeneratedBy '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel.BenjiScene'
+[2019.02.26-18.45.42:007][472]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.26-18.45.42:008][472]PIE: New page: PIE session: BenjiScene (26 févr. 2019 20:45:42)
+[2019.02.26-18.45.42:008][472]LogPlayLevel: Creating play world package: /Game/Benji/UEDPIE_0_BenjiScene
+[2019.02.26-18.45.42:009][472]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001261s)
+[2019.02.26-18.45.42:009][472]LogAIModule: Creating AISystem for world BenjiScene
+[2019.02.26-18.45.42:009][472]LogPlayLevel: PIE: World Init took: (0.000432s)
+[2019.02.26-18.45.42:009][472]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Benji/BenjiScene.BenjiScene to /Game/Benji/UEDPIE_0_BenjiScene.BenjiScene (0.001779s)
+[2019.02.26-18.45.42:045][472]LogInit: XAudio2 using 'Headset Earphone (Razer Kraken 7.1 V2)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.02.26-18.45.42:082][472]LogInit: FAudioDevice initialized.
+[2019.02.26-18.45.42:089][472]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.26-18.45.42:121][472]LogLoad: Game class is 'EndlessRunner_C'
+[2019.02.26-18.45.42:122][472]LogWorld: Bringing World /Game/Benji/UEDPIE_0_BenjiScene.BenjiScene up for play (max tick rate 0) at 2019.02.26-19.45.42
+[2019.02.26-18.45.42:122][472]LogWorld: Bringing up level for play took: 0.000381
+[2019.02.26-18.45.42:145][472]PIE: Play in editor start time for /Game/Benji/UEDPIE_0_BenjiScene -0,151
+[2019.02.26-18.45.42:145][472]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel' has LevelScriptBlueprint '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel.BenjiScene' with GeneratedClass '/Game/Benji/BenjiScene.BenjiScene_C' with ClassGeneratedBy '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel.BenjiScene'
+[2019.02.26-18.45.54:615][951]LogBlueprintUserMessages: [BP_Player_C_0] 2
+[2019.02.26-18.46.02:499][895]Cmd: restartlevel
+[2019.02.26-18.46.02:499][895]LogNet: Browse: /Game/Benji/BenjiScene?restart
+[2019.02.26-18.46.02:500][895]LogLoad: LoadMap: /Game/Benji/BenjiScene
+[2019.02.26-18.46.02:534][895]LogPlayLevel: Creating play world package: /Game/Benji/UEDPIE_0_BenjiScene
+[2019.02.26-18.46.02:535][895]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001149s)
+[2019.02.26-18.46.02:535][895]LogAIModule: Creating AISystem for world BenjiScene
+[2019.02.26-18.46.02:535][895]LogPlayLevel: PIE: World Init took: (0.000411s)
+[2019.02.26-18.46.02:535][895]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Benji/BenjiScene.BenjiScene to /Game/Benji/UEDPIE_0_BenjiScene.BenjiScene (0.001687s)
+[2019.02.26-18.46.02:535][895]LogLoad: Game class is 'EndlessRunner_C'
+[2019.02.26-18.46.02:536][895]LogWorld: Bringing World /Game/Benji/UEDPIE_0_BenjiScene.BenjiScene up for play (max tick rate 0) at 2019.02.26-19.46.02
+[2019.02.26-18.46.02:536][895]LogWorld: Bringing up level for play took: 0.000324
+[2019.02.26-18.46.02:545][895]LogLoad: Took 0.046743 seconds to LoadMap(/Game/Benji/UEDPIE_0_BenjiScene)
+[2019.02.26-18.46.04:619][141]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel' has LevelScriptBlueprint '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel.BenjiScene' with GeneratedClass '/Game/Benji/BenjiScene.BenjiScene_C' with ClassGeneratedBy '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel.BenjiScene'
+[2019.02.26-18.46.04:619][141]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.26-18.46.04:632][141]LogSlate: Window 'EndlessRunnerLuc Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.02.26-18.46.04:663][141]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.26-18.46.04:664][141]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel' has LevelScriptBlueprint '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel.BenjiScene' with GeneratedClass '/Game/Benji/BenjiScene.BenjiScene_C' with ClassGeneratedBy '/Game/Benji/BenjiScene.BenjiScene:PersistentLevel.BenjiScene'
+[2019.02.26-18.46.04:735][143]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2019.02.26-18.46.09:811][729]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Benji/Prefab/BP_Player" FILE="../../../../../../Projets/Unreal/Unreal_EndlessRunner/EndlessRunnerSeb/EndlessRunnerLuc/Content/Benji/Prefab/BP_Player.uasset" SILENT=true
+[2019.02.26-18.46.09:924][729]LogSavePackage: Moving '../../../../../../Projets/Unreal/Unreal_EndlessRunner/EndlessRunnerSeb/EndlessRunnerLuc/Saved/BP_PlayerE0BEF67845901A475705068FBB93CC9E.tmp' to '../../../../../../Projets/Unreal/Unreal_EndlessRunner/EndlessRunnerSeb/EndlessRunnerLuc/Content/Benji/Prefab/BP_Player.uasset'
+[2019.02.26-18.48.32:624][654]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Benji/BenjiScene' took 0.031
+[2019.02.26-18.53.25:389][570]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.02.26-18.53.50:933][611]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Benji/Blueprints/SaveGameScore.SaveGameScore
+[2019.02.26-18.55.04:735][408]BlueprintLog: New page: Compile SaveGameScore
+[2019.02.26-18.55.05:286][465]LogSavePackage: Moving '../../../../../../Projets/Unreal/Unreal_EndlessRunner/EndlessRunnerSeb/EndlessRunnerLuc/Saved/SaveGameScoreFE4EB67E4C7F2798D68C579C95BE2B8F.tmp' to '../../../../../../Projets/Unreal/Unreal_EndlessRunner/EndlessRunnerSeb/EndlessRunnerLuc/Content/Benji/Blueprints/SaveGameScore.uasset'
+[2019.02.26-18.59.27:266][627]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.02.26-18.59.27:551][627]LogSlate: Window 'EndlessRunnerLuc - Unreal Editor' being destroyed
+[2019.02.26-18.59.27:834][628]Cmd: QUIT_EDITOR
+[2019.02.26-18.59.28:197][628]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.02.26-18.59.28:207][628]LogExit: Preparing to exit.
+[2019.02.26-18.59.29:352][628]LogExit: Editor shut down
+[2019.02.26-18.59.29:353][628]LogExit: Transaction tracking system shut down
+[2019.02.26-18.59.29:660][628]LogExit: Object subsystem successfully closed.
+[2019.02.26-18.59.29:682][628]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.02.26-18.59.29:688][628]LogD3D11RHI: Shutdown
+[2019.02.26-18.59.29:688][628]LogD3D11RHI: CleanupD3DDevice
+[2019.02.26-18.59.29:691][628]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.02.26-18.59.29:699][628]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (636)
+[2019.02.26-18.59.29:699][628]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (634)
+[2019.02.26-18.59.29:699][628]LogModuleManager: Shutting down and abandoning module Voice (632)
+[2019.02.26-18.59.29:699][628]LogModuleManager: Shutting down and abandoning module SequencerWidgets (630)
+[2019.02.26-18.59.29:699][628]LogModuleManager: Shutting down and abandoning module BlueprintGraph (628)
+[2019.02.26-18.59.29:699][628]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (626)
+[2019.02.26-18.59.29:699][628]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (624)
+[2019.02.26-18.59.29:699][628]LogModuleManager: Shutting down and abandoning module SceneOutliner (622)
+[2019.02.26-18.59.29:699][628]LogModuleManager: Shutting down and abandoning module AddContentDialog (620)
+[2019.02.26-18.59.29:720][628]LogModuleManager: Shutting down and abandoning module WidgetCarousel (619)
+[2019.02.26-18.59.29:720][628]LogModuleManager: Shutting down and abandoning module EditorWidgets (616)
+[2019.02.26-18.59.29:720][628]LogModuleManager: Shutting down and abandoning module CollectionManager (614)
+[2019.02.26-18.59.29:720][628]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (612)
+[2019.02.26-18.59.29:720][628]LogModuleManager: Shutting down and abandoning module StatsViewer (610)
+[2019.02.26-18.59.29:720][628]LogModuleManager: Shutting down and abandoning module FoliageEdit (608)
+[2019.02.26-18.59.29:720][628]LogModuleManager: Shutting down and abandoning module LandscapeEditor (606)
+[2019.02.26-18.59.29:720][628]LogModuleManager: Shutting down and abandoning module MeshPaintMode (604)
+[2019.02.26-18.59.29:721][628]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (602)
+[2019.02.26-18.59.29:721][628]LogModuleManager: Shutting down and abandoning module ActorPickerMode (600)
+[2019.02.26-18.59.29:721][628]LogModuleManager: Shutting down and abandoning module GeometryMode (598)
+[2019.02.26-18.59.29:721][628]LogModuleManager: Shutting down and abandoning module TextureAlignMode (596)
+[2019.02.26-18.59.29:721][628]LogModuleManager: Shutting down and abandoning module BspMode (594)
+[2019.02.26-18.59.29:721][628]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (592)
+[2019.02.26-18.59.29:721][628]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (590)
+[2019.02.26-18.59.29:721][628]LogModuleManager: Shutting down and abandoning module AutomationWorker (588)
+[2019.02.26-18.59.29:721][628]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (586)
+[2019.02.26-18.59.29:721][628]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (584)
+[2019.02.26-18.59.29:721][628]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (582)
+[2019.02.26-18.59.29:721][628]LogModuleManager: Shutting down and abandoning module PlacementMode (581)
+[2019.02.26-18.59.29:721][628]LogModuleManager: Shutting down and abandoning module MaterialEditor (580)
+[2019.02.26-18.59.29:721][628]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (576)
+[2019.02.26-18.59.29:721][628]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (574)
+[2019.02.26-18.59.29:721][628]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (572)
+[2019.02.26-18.59.29:721][628]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (570)
+[2019.02.26-18.59.29:721][628]LogModuleManager: Shutting down and abandoning module WebMMedia (568)
+[2019.02.26-18.59.29:721][628]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (566)
+[2019.02.26-18.59.29:721][628]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (564)
+[2019.02.26-18.59.29:721][628]LogModuleManager: Shutting down and abandoning module SequenceRecorder (563)
+[2019.02.26-18.59.29:721][628]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (560)
+[2019.02.26-18.59.29:721][628]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (558)
+[2019.02.26-18.59.29:721][628]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (556)
+[2019.02.26-18.59.29:721][628]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (554)
+[2019.02.26-18.59.29:721][628]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (552)
+[2019.02.26-18.59.29:721][628]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (550)
+[2019.02.26-18.59.29:721][628]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (548)
+[2019.02.26-18.59.29:721][628]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (546)
+[2019.02.26-18.59.29:721][628]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (544)
+[2019.02.26-18.59.29:721][628]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (542)
+[2019.02.26-18.59.29:721][628]LogModuleManager: Shutting down and abandoning module CharacterAI (540)
+[2019.02.26-18.59.29:721][628]LogModuleManager: Shutting down and abandoning module SmartSnapping (538)
+[2019.02.26-18.59.29:721][628]LogModuleManager: Shutting down and abandoning module SessionServices (536)
+[2019.02.26-18.59.29:721][628]LogModuleManager: Shutting down and abandoning module ViewportSnapping (534)
+[2019.02.26-18.59.29:721][628]LogModuleManager: Shutting down and abandoning module ViewportInteraction (532)
+[2019.02.26-18.59.29:721][628]LogModuleManager: Shutting down and abandoning module ClothPainter (530)
+[2019.02.26-18.59.29:721][628]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (529)
+[2019.02.26-18.59.29:721][628]LogModuleManager: Shutting down and abandoning module LogVisualizer (526)
+[2019.02.26-18.59.29:721][628]LogModuleManager: Shutting down and abandoning module IntroTutorials (524)
+[2019.02.26-18.59.29:722][628]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (523)
+[2019.02.26-18.59.29:722][628]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (520)
+[2019.02.26-18.59.29:722][628]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (518)
+[2019.02.26-18.59.29:722][628]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (516)
+[2019.02.26-18.59.29:722][628]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (514)
+[2019.02.26-18.59.29:722][628]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (513)
+[2019.02.26-18.59.29:985][628]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (510)
+[2019.02.26-18.59.29:986][628]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (508)
+[2019.02.26-18.59.29:986][628]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (506)
+[2019.02.26-18.59.29:986][628]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (504)
+[2019.02.26-18.59.29:986][628]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (502)
+[2019.02.26-18.59.29:986][628]LogModuleManager: Shutting down and abandoning module InputBindingEditor (500)
+[2019.02.26-18.59.29:986][628]LogModuleManager: Shutting down and abandoning module MergeActors (498)
+[2019.02.26-18.59.29:986][628]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (496)
+[2019.02.26-18.59.29:986][628]LogModuleManager: Shutting down and abandoning module LocalizationService (495)
+[2019.02.26-18.59.29:986][628]LogModuleManager: Shutting down and abandoning module HardwareTargeting (492)
+[2019.02.26-18.59.29:986][628]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (490)
+[2019.02.26-18.59.29:986][628]LogModuleManager: Shutting down and abandoning module UndoHistory (488)
+[2019.02.26-18.59.29:986][628]LogModuleManager: Shutting down and abandoning module XmlParser (486)
+[2019.02.26-18.59.29:986][628]LogModuleManager: Shutting down and abandoning module Blutility (484)
+[2019.02.26-18.59.29:987][628]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (482)
+[2019.02.26-18.59.29:987][628]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (481)
+[2019.02.26-18.59.29:987][628]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (478)
+[2019.02.26-18.59.29:987][628]LogModuleManager: Shutting down and abandoning module SettingsEditor (476)
+[2019.02.26-18.59.29:988][628]LogModuleManager: Shutting down and abandoning module ProjectLauncher (474)
+[2019.02.26-18.59.29:988][628]LogModuleManager: Shutting down and abandoning module SessionFrontend (472)
+[2019.02.26-18.59.29:988][628]LogModuleManager: Shutting down and abandoning module ProfilerClient (470)
+[2019.02.26-18.59.29:988][628]LogModuleManager: Shutting down and abandoning module DeviceManager (468)
+[2019.02.26-18.59.29:988][628]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (467)
+[2019.02.26-18.59.30:042][628]LogModuleManager: Shutting down and abandoning module AutomationController (464)
+[2019.02.26-18.59.30:042][628]LogModuleManager: Shutting down and abandoning module AutomationWindow (462)
+[2019.02.26-18.59.30:042][628]LogModuleManager: Shutting down and abandoning module Layers (460)
+[2019.02.26-18.59.30:042][628]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (458)
+[2019.02.26-18.59.30:042][628]LogModuleManager: Shutting down and abandoning module DetailCustomizations (456)
+[2019.02.26-18.59.30:043][628]LogModuleManager: Shutting down and abandoning module PackagesDialog (454)
+[2019.02.26-18.59.30:043][628]LogModuleManager: Shutting down and abandoning module Persona (452)
+[2019.02.26-18.59.30:043][628]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (451)
+[2019.02.26-18.59.30:043][628]LogModuleManager: Shutting down and abandoning module AnimGraph (449)
+[2019.02.26-18.59.30:043][628]LogModuleManager: Shutting down and abandoning module Kismet (446)
+[2019.02.26-18.59.30:051][628]LogModuleManager: Shutting down and abandoning module GraphEditor (444)
+[2019.02.26-18.59.30:051][628]LogModuleManager: Shutting down and abandoning module ClassViewer (442)
+[2019.02.26-18.59.30:052][628]LogModuleManager: Shutting down and abandoning module Toolbox (440)
+[2019.02.26-18.59.30:052][628]LogModuleManager: Shutting down and abandoning module ModuleUI (438)
+[2019.02.26-18.59.30:052][628]LogModuleManager: Shutting down and abandoning module MovieSceneTools (436)
+[2019.02.26-18.59.30:052][628]LogModuleManager: Shutting down and abandoning module OutputLog (434)
+[2019.02.26-18.59.30:052][628]LogModuleManager: Shutting down and abandoning module GammaUI (432)
+[2019.02.26-18.59.30:052][628]LogModuleManager: Shutting down and abandoning module Documentation (430)
+[2019.02.26-18.59.30:052][628]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (428)
+[2019.02.26-18.59.30:052][628]LogModuleManager: Shutting down and abandoning module MovieScene (426)
+[2019.02.26-18.59.30:052][628]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (424)
+[2019.02.26-18.59.30:052][628]LogModuleManager: Shutting down and abandoning module LauncherPlatform (422)
+[2019.02.26-18.59.30:052][628]LogModuleManager: Shutting down and abandoning module AnalyticsET (420)
+[2019.02.26-18.59.30:052][628]LogModuleManager: Shutting down and abandoning module PortalServices (418)
+[2019.02.26-18.59.30:052][628]LogModuleManager: Shutting down and abandoning module PortalRpc (416)
+[2019.02.26-18.59.30:052][628]LogModuleManager: Shutting down and abandoning module MessagingRpc (414)
+[2019.02.26-18.59.30:052][628]LogModuleManager: Shutting down and abandoning module AIModule (412)
+[2019.02.26-18.59.30:052][628]LogModuleManager: Shutting down and abandoning module GameplayDebugger (411)
+[2019.02.26-18.59.30:052][628]LogModuleManager: Shutting down and abandoning module AITestSuite (409)
+[2019.02.26-18.59.30:052][628]LogModuleManager: Shutting down and abandoning module NavigationSystem (407)
+[2019.02.26-18.59.30:052][628]LogModuleManager: Shutting down and abandoning module DesktopPlatform (404)
+[2019.02.26-18.59.30:052][628]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (402)
+[2019.02.26-18.59.30:055][628]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2019.02.26-18.59.30:085][628]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2019.02.26-18.59.30:085][628]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2019.02.26-18.59.30:086][628]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2019.02.26-18.59.30:086][628]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2019.02.26-18.59.30:086][628]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2019.02.26-18.59.30:086][628]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2019.02.26-18.59.30:086][628]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2019.02.26-18.59.30:086][628]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2019.02.26-18.59.30:086][628]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2019.02.26-18.59.30:086][628]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2019.02.26-18.59.30:086][628]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2019.02.26-18.59.30:086][628]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2019.02.26-18.59.30:086][628]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2019.02.26-18.59.30:086][628]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2019.02.26-18.59.30:086][628]LogModuleManager: Shutting down and abandoning module MediaCompositing (370)
+[2019.02.26-18.59.30:086][628]LogModuleManager: Shutting down and abandoning module LinearTimecode (368)
+[2019.02.26-18.59.30:086][628]LogModuleManager: Shutting down and abandoning module ImgMedia (366)
+[2019.02.26-18.59.30:089][628]LogModuleManager: Shutting down and abandoning module HTML5Networking (364)
+[2019.02.26-18.59.30:089][628]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (362)
+[2019.02.26-18.59.30:089][628]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (360)
+[2019.02.26-18.59.30:090][628]LogModuleManager: Shutting down and abandoning module BackChannel (358)
+[2019.02.26-18.59.30:090][628]LogModuleManager: Shutting down and abandoning module AppleVision (356)
+[2019.02.26-18.59.30:090][628]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (354)
+[2019.02.26-18.59.30:090][628]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2019.02.26-18.59.30:090][628]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2019.02.26-18.59.30:090][628]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2019.02.26-18.59.30:090][628]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2019.02.26-18.59.30:090][628]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2019.02.26-18.59.30:090][628]LogModuleManager: Shutting down and abandoning module VariantManagerContent (342)
+[2019.02.26-18.59.30:090][628]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (340)
+[2019.02.26-18.59.30:090][628]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2019.02.26-18.59.30:090][628]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2019.02.26-18.59.30:090][628]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2019.02.26-18.59.30:090][628]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2019.02.26-18.59.30:090][628]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2019.02.26-18.59.30:090][628]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2019.02.26-18.59.30:090][628]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2019.02.26-18.59.30:090][628]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2019.02.26-18.59.30:090][628]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2019.02.26-18.59.30:090][628]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2019.02.26-18.59.30:090][628]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2019.02.26-18.59.30:090][628]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2019.02.26-18.59.30:090][628]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2019.02.26-18.59.30:090][628]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2019.02.26-18.59.30:090][628]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2019.02.26-18.59.30:090][628]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (308)
+[2019.02.26-18.59.30:090][628]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (306)
+[2019.02.26-18.59.30:090][628]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (304)
+[2019.02.26-18.59.30:090][628]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (302)
+[2019.02.26-18.59.30:090][628]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (300)
+[2019.02.26-18.59.30:090][628]LogModuleManager: Shutting down and abandoning module Paper2DEditor (298)
+[2019.02.26-18.59.30:090][628]LogModuleManager: Shutting down and abandoning module MeshPaint (297)
+[2019.02.26-18.59.30:091][628]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (294)
+[2019.02.26-18.59.30:091][628]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (292)
+[2019.02.26-18.59.30:091][628]LogModuleManager: Shutting down and abandoning module PhysXVehicles (290)
+[2019.02.26-18.59.30:091][628]LogModuleManager: Shutting down and abandoning module OculusEditor (288)
+[2019.02.26-18.59.30:091][628]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2019.02.26-18.59.30:091][628]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.02.26-18.59.30:091][628]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.02.26-18.59.30:191][628]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.02.26-18.59.30:291][628]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2019.02.26-18.59.30:291][628]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2019.02.26-18.59.30:291][628]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2019.02.26-18.59.30:291][628]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2019.02.26-18.59.30:291][628]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2019.02.26-18.59.30:291][628]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2019.02.26-18.59.30:291][628]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2019.02.26-18.59.30:295][628]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2019.02.26-18.59.30:296][628]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2019.02.26-18.59.30:296][628]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2019.02.26-18.59.30:296][628]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2019.02.26-18.59.30:297][628]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2019.02.26-18.59.30:299][628]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2019.02.26-18.59.30:299][628]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2019.02.26-18.59.30:299][628]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2019.02.26-18.59.30:299][628]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2019.02.26-18.59.30:299][628]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2019.02.26-18.59.30:299][628]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (244)
+[2019.02.26-18.59.30:299][628]LogModuleManager: Shutting down and abandoning module WmfMedia (242)
+[2019.02.26-18.59.30:301][628]LogModuleManager: Shutting down and abandoning module Media (241)
+[2019.02.26-18.59.30:307][628]LogModuleManager: Shutting down and abandoning module PacketHandler (238)
+[2019.02.26-18.59.30:307][628]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (236)
+[2019.02.26-18.59.30:307][628]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (234)
+[2019.02.26-18.59.30:307][628]LogModuleManager: Shutting down and abandoning module MediaAssets (232)
+[2019.02.26-18.59.30:307][628]LogModuleManager: Shutting down and abandoning module Overlay (230)
+[2019.02.26-18.59.30:307][628]LogModuleManager: Shutting down and abandoning module OverlayEditor (229)
+[2019.02.26-18.59.30:307][628]LogModuleManager: Shutting down and abandoning module VREditor (226)
+[2019.02.26-18.59.30:307][628]LogModuleManager: Shutting down and abandoning module StringTableEditor (224)
+[2019.02.26-18.59.30:307][628]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (222)
+[2019.02.26-18.59.30:307][628]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (220)
+[2019.02.26-18.59.30:307][628]LogModuleManager: Shutting down and abandoning module FunctionalTesting (218)
+[2019.02.26-18.59.30:307][628]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (216)
+[2019.02.26-18.59.30:307][628]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (215)
+[2019.02.26-18.59.30:307][628]LogModuleManager: Shutting down and abandoning module UMG (212)
+[2019.02.26-18.59.30:308][628]LogModuleManager: Shutting down and abandoning module UMGEditor (211)
+[2019.02.26-18.59.30:308][628]LogModuleManager: Shutting down and abandoning module Sequencer (210)
+[2019.02.26-18.59.30:308][628]LogModuleManager: Shutting down and abandoning module MessageLog (207)
+[2019.02.26-18.59.30:308][628]LogModuleManager: Shutting down and abandoning module SlateReflector (202)
+[2019.02.26-18.59.30:308][628]LogModuleManager: Shutting down and abandoning module Slate (200)
+[2019.02.26-18.59.30:308][628]LogModuleManager: Shutting down and abandoning module EditorStyle (198)
+[2019.02.26-18.59.30:310][628]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2019.02.26-18.59.30:310][628]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2019.02.26-18.59.30:310][628]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2019.02.26-18.59.30:310][628]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2019.02.26-18.59.30:310][628]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2019.02.26-18.59.30:310][628]LogModuleManager: Shutting down and abandoning module Core (186)
+[2019.02.26-18.59.30:310][628]LogModuleManager: Shutting down and abandoning module LevelSequence (184)
+[2019.02.26-18.59.30:310][628]LogModuleManager: Shutting down and abandoning module KismetCompiler (182)
+[2019.02.26-18.59.30:310][628]LogModuleManager: Shutting down and abandoning module MeshUtilities (180)
+[2019.02.26-18.59.30:310][628]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (179)
+[2019.02.26-18.59.30:310][628]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (178)
+[2019.02.26-18.59.30:310][628]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (177)
+[2019.02.26-18.59.30:310][628]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (175)
+[2019.02.26-18.59.30:310][628]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (173)
+[2019.02.26-18.59.30:310][628]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (171)
+[2019.02.26-18.59.30:310][628]LogModuleManager: Shutting down and abandoning module MaterialBaking (167)
+[2019.02.26-18.59.30:310][628]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (163)
+[2019.02.26-18.59.30:311][628]LogModuleManager: Shutting down and abandoning module DerivedDataCache (160)
+[2019.02.26-18.59.30:404][628]LogDerivedDataCache: Shutdown
+[2019.02.26-18.59.30:404][628]LogModuleManager: Shutting down and abandoning module XGEController (158)
+[2019.02.26-18.59.30:404][628]LogModuleManager: Shutting down and abandoning module TargetPlatform (156)
+[2019.02.26-18.59.30:405][628]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (155)
+[2019.02.26-18.59.30:405][628]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (153)
+[2019.02.26-18.59.30:405][628]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (151)
+[2019.02.26-18.59.30:405][628]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (149)
+[2019.02.26-18.59.30:405][628]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (147)
+[2019.02.26-18.59.30:406][628]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (145)
+[2019.02.26-18.59.30:406][628]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (143)
+[2019.02.26-18.59.30:406][628]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (141)
+[2019.02.26-18.59.30:406][628]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (139)
+[2019.02.26-18.59.30:406][628]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (137)
+[2019.02.26-18.59.30:406][628]LogModuleManager: Shutting down and abandoning module ImageWrapper (136)
+[2019.02.26-18.59.30:406][628]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (133)
+[2019.02.26-18.59.30:406][628]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (131)
+[2019.02.26-18.59.30:406][628]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (129)
+[2019.02.26-18.59.30:406][628]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (127)
+[2019.02.26-18.59.30:406][628]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (125)
+[2019.02.26-18.59.30:427][628]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (123)
+[2019.02.26-18.59.30:427][628]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (121)
+[2019.02.26-18.59.30:427][628]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (119)
+[2019.02.26-18.59.30:427][628]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (117)
+[2019.02.26-18.59.30:427][628]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (115)
+[2019.02.26-18.59.30:430][628]LogModuleManager: Shutting down and abandoning module Messaging (113)
+[2019.02.26-18.59.30:430][628]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (111)
+[2019.02.26-18.59.30:433][628]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (109)
+[2019.02.26-18.59.30:433][628]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (107)
+[2019.02.26-18.59.30:456][628]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (105)
+[2019.02.26-18.59.30:456][628]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (103)
+[2019.02.26-18.59.30:456][628]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (101)
+[2019.02.26-18.59.30:456][628]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (99)
+[2019.02.26-18.59.30:456][628]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (97)
+[2019.02.26-18.59.30:456][628]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (95)
+[2019.02.26-18.59.30:456][628]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (93)
+[2019.02.26-18.59.30:456][628]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (91)
+[2019.02.26-18.59.30:456][628]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (89)
+[2019.02.26-18.59.30:456][628]LogModuleManager: Shutting down and abandoning module InputCore (86)
+[2019.02.26-18.59.30:456][628]LogModuleManager: Shutting down and abandoning module Settings (84)
+[2019.02.26-18.59.30:457][628]LogModuleManager: Shutting down and abandoning module PhysXCooking (82)
+[2019.02.26-18.59.30:457][628]LogModuleManager: Shutting down and abandoning module SteamVR (80)
+[2019.02.26-18.59.30:457][628]LogHMD: Freeing OpenVRDLLHandle.
+[2019.02.26-18.59.30:457][628]LogModuleManager: Shutting down and abandoning module OculusHMD (78)
+[2019.02.26-18.59.30:457][628]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (76)
+[2019.02.26-18.59.30:457][628]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (74)
+[2019.02.26-18.59.30:457][628]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (72)
+[2019.02.26-18.59.30:457][628]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (68)
+[2019.02.26-18.59.30:457][628]LogModuleManager: Shutting down and abandoning module XMPP (63)
+[2019.02.26-18.59.30:457][628]LogModuleManager: Shutting down and abandoning module WebSockets (62)
+[2019.02.26-18.59.30:464][628]LogModuleManager: Shutting down and abandoning module HTTP (59)
+[2019.02.26-18.59.30:464][628]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.02.26-18.59.30:464][628]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BCB28AE9F-428B-3D70-90FC-4C82979B84CD%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=2898fc764f2965c842f33b8781f2705b%7C2e0ce31fd6d8498ca34a08bbdecc522b%7C622a8ca2-7c00-47cc-8f1c-4092a58f2530&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.02.26-18.59.30:490][628]LogModuleManager: Shutting down and abandoning module SSL (58)
+[2019.02.26-18.59.30:491][628]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (54)
+[2019.02.26-18.59.30:491][628]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (52)
+[2019.02.26-18.59.30:491][628]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (50)
+[2019.02.26-18.59.30:491][628]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (48)
+[2019.02.26-18.59.30:491][628]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (46)
+[2019.02.26-18.59.30:491][628]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (44)
+[2019.02.26-18.59.30:491][628]LogModuleManager: Shutting down and abandoning module MagicLeapController (42)
+[2019.02.26-18.59.30:491][628]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.02.26-18.59.30:491][628]LogModuleManager: Shutting down and abandoning module MagicLeap (40)
+[2019.02.26-18.59.30:491][628]LogModuleManager: Shutting down and abandoning module DatasmithContent (38)
+[2019.02.26-18.59.30:492][628]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2019.02.26-18.59.30:492][628]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2019.02.26-18.59.30:492][628]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2019.02.26-18.59.30:492][628]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2019.02.26-18.59.30:492][628]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2019.02.26-18.59.30:492][628]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2019.02.26-18.59.30:492][628]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2019.02.26-18.59.30:494][628]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.02.26-18.59.30:494][628]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2019.02.26-18.59.30:494][628]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2019.02.26-18.59.30:494][628]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2019.02.26-18.59.30:494][628]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2019.02.26-18.59.30:494][628]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2019.02.26-18.59.30:494][628]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.02.26-18.59.30:494][628]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.02.26-18.59.30:494][628]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.02.26-18.59.30:494][628]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.02.26-18.59.30:494][628]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.02.26-18.59.30:503][628]LogExit: Exiting.
+[2019.02.26-18.59.30:523][628]Log file closed, 02/26/19 19:59:30
